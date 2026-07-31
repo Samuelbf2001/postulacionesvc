@@ -4,10 +4,13 @@
 > **Idioma:** el formulario de Latitud está en inglés — respuestas en inglés, listas para pegar.
 > **Formato del formulario:** es un perfil **por fundador** (Bio individual), no solo de
 > empresa — cada campo se responde en primera persona. Este borrador está armado desde la
-> perspectiva de **Samuel**. **Confirmado 2026-07-30: Sebastián es founder formal con
-> equity (líder operativo)** — necesita su propia versión completa de este documento, igual
-> que Ernesto si también postula individualmente. Pendiente: apellido, LinkedIn, email,
-> background y ciudad de Sebastián para armar su versión.
+> perspectiva de **Samuel**. **Confirmado 2026-07-30: Sebastián Burgos es founder formal
+> con equity, Director Operativo, tiempo completo desde que se creó la empresa**
+> (LinkedIn: https://www.linkedin.com/in/sebasti%C3%A1n-burgos-ia-automations/) — necesita
+> su propia versión completa de este documento, igual que Ernesto Hernández (Gerente
+> Comercial, https://www.linkedin.com/in/ernestojhernandez/) si también postula
+> individualmente. Para armar sus versiones falta: email, ciudad actual, background/thesis
+> personal y las respuestas subjetivas (motivación, "most impressive thing", últimos 30 días).
 > **Marcador:** `[CONFIRMAR: ...]` requiere tu dato real antes de enviar.
 > **Enfoque Latitud (de tu nota de skill):** pilares narrativos = Motivación de Permanencia
 > (por qué el equipo persiste en LatAm), Capacidad de Persuasión (para reclutar/levantar

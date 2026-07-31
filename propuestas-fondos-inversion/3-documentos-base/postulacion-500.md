@@ -36,13 +36,8 @@ Guion sugerido (2 minutos, español, los 3 founders si es posible, sin producci�
 
 ### Por favor describe quiénes del equipo fundador están de tiempo completo y quiénes están de medio tiempo
 > Samuel Burgos (CEO / Producto y Tecnología) — tiempo completo. https://www.linkedin.com/in/saburgosf/
-> Ernesto Hernández (Director de Procesos / Comercial) — `[CONFIRMAR: tiempo completo o medio tiempo, LinkedIn]`
-> Sebastián `[CONFIRMAR: apellido]` (Líder de Operación, founder) — `[CONFIRMAR: tiempo completo o medio tiempo, LinkedIn, desde cuándo]`
-
-`[CONFIRMADO 2026-07-30: Sebastián es founder formal con equity, rol líder operativo — no
-team lead sin equity. Falta solo el dato: apellido, LinkedIn, tiempo dedicado y fecha de
-inicio. Esto ya no bloquea la decisión, solo falta el dato puntual — igual para la
-pregunta de accionistas más abajo.]`
+> Ernesto Hernández (Gerente Comercial) — `[CONFIRMAR: tiempo completo o medio tiempo]`. https://www.linkedin.com/in/ernestojhernandez/
+> Sebastián Burgos (Director Operativo) — tiempo completo, founder con equity, en el equipo desde que se creó la empresa. https://www.linkedin.com/in/sebasti%C3%A1n-burgos-ia-automations/
 
 ---
 
@@ -100,8 +95,7 @@ pregunta de accionistas más abajo.]`
 
 ### Describe a detalle los accionistas de su compañía incluyendo el porcentaje de cada uno
 > `[CONFIRMAR: entidad legal, país de incorporación, % de Samuel, % de Ernesto, % de
-> Sebastián (founder formal confirmado — falta el número exacto), % reservado para
-> advisors/pool de empleados si existe.]`
+> Sebastián Burgos, % reservado para advisors/pool de empleados si existe.]`
 
 ---
 
@@ -286,7 +280,7 @@ pregunta de accionistas más abajo.]`
 
 ## CHECKLIST ANTES DE ENVIAR (500)
 
-- [ ] Datos de Sebastián: apellido, LinkedIn, tiempo dedicado, % de equity (ya confirmado como founder formal)
+- [ ] % de equity de Sebastián Burgos (ya confirmados: nombre, rol, LinkedIn, tiempo completo)
 - [ ] Confirmar redes sociales, ciudad, año de incorporación, subsector, # empleados
 - [ ] Confirmar si han recibido inversión y detalle de accionistas/cap table
 - [ ] Confirmar GTM real de 6 meses, roadmap real de 4 meses

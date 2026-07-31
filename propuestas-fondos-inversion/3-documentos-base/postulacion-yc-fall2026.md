@@ -55,17 +55,18 @@
 > We're not actively looking, but we're not closed to a technical cofounder with hands-on
 > startup product-building experience, or a growth-focused founder.
 
-`[CONFIRMADO 2026-07-25: son 3 founders — Samuel (técnico/producto), Ernesto (procesos +
-relaciones comerciales), Sebastián (líder de operación).]`
-`[CONFIRMADO 2026-07-30: Sebastián es founder formal, con equity — no team lead. Falta:
-apellido, LinkedIn, background/experiencia, % de equity, y desde cuándo está full-time.
-Esto también afecta la sección EQUITY más abajo y el video.]`
+`[CONFIRMADO 2026-07-25: son 3 founders — Samuel (técnico/producto), Ernesto Hernández
+(Gerente Comercial, https://www.linkedin.com/in/ernestojhernandez/), Sebastián Burgos
+(Director Operativo, https://www.linkedin.com/in/sebasti%C3%A1n-burgos-ia-automations/).]`
+`[CONFIRMADO 2026-07-30: Sebastián es founder formal, con equity, tiempo completo desde
+que se creó la empresa — no team lead. Falta solo: % de equity exacto y fecha de
+incorporación/full-time de cada uno. Esto también afecta la sección EQUITY más abajo.]`
 
 ### Founder Video (1 min)
 
 Guion sugerido (60 segundos, en inglés, cámara al frente, sin slides, **los 3 founders**):
 
-1. **0–15s:** "Hi, I'm Samuel, this is Ernesto, and this is Sebastián. We're the founders of Sixteam. I've spent 8+ years in revenue operations; Ernesto has spent 6+ years building business processes; Sebastián leads our operation `[CONFIRMAR: una línea sobre su experiencia]`."
+1. **0–15s:** "Hi, I'm Samuel, this is Ernesto, and this is Sebastián. We're the founders of Sixteam. I've spent 8+ years in revenue operations; Ernesto leads our commercial relationships; Sebastián runs day-to-day operations, making sure what our agents and specialists deliver actually lands with the client."
 2. **15–35s:** "AI solved the first barrier for small businesses — powerful technology is now cheap. But the second barrier is still there: implementing it, operating it, and making it produce revenue. That's what we do. Our AI agents do the execution work; our specialists do the judgment work."
 3. **35–50s:** "We already run this for paying customers across Latin America — travel agencies, clinics, real estate — on monthly retainers with usage-based credits, not seats. 50+ projects delivered, 98% satisfaction."
 4. **50–60s:** "We're building the AI-native services firm for the 99% of businesses that will never hire a tech team. We'd love to build it at YC."
@@ -308,8 +309,8 @@ Versión si la respuesta es "SF después de YC":
 
 ### Have you formed ANY legal entity yet?
 > `[CONFIRMAR: ¿SAS colombiana? ¿LLC/C-Corp? Detallar: nombre, país, y % de cada uno de los
-> 3 founders — Samuel, Ernesto y Sebastián (confirmado founder formal con equity el
-> 2026-07-30, falta su % exacto).]`
+> 3 founders — Samuel, Ernesto Hernández y Sebastián Burgos (los 3 confirmados founders
+> formales con equity — falta el % exacto de cada uno).]`
 
 ### Have you taken any investment yet?
 > `[CONFIRMAR — si no:]` No. Bootstrapped and revenue-funded to date.
@@ -342,8 +343,8 @@ Versión si la respuesta es "SF después de YC":
 ## CHECKLIST ANTES DE ENVIAR
 
 - [ ] Confirmar MRR y ponerlo en números — YC valora números concretos sobre adjetivos
-- [ ] Confirmar fechas full-time de cada founder (incluyendo Sebastián)
-- [ ] Datos de Sebastián: apellido completo, LinkedIn, background/experiencia, % de equity
+- [ ] Confirmar fechas exactas full-time de cada founder (nombres y roles ya confirmados)
+- [ ] % de equity exacto de cada uno de los 3 founders
 - [ ] Confirmar entidad legal y cap table (3 founders)
 - [ ] Grabar founder video (1 min, ambos, inglés)
 - [ ] Grabar demo (≤3 min) con workspace demo, sin datos de clientes

@@ -26,9 +26,9 @@
 | Modelo de negocio / cómo generan dinero | "How do or will you make money?" | "Describe el modelo de negocio" | (implícito en "thesis" / TAM-SAM-SOM) | ✅ Redactado en YC y 500; en Latitud vive dentro del bottom-up sizing |
 | Tamaño de mercado | (implícito en "how much could you make") | (no se pide explícito) | **TAM/SAM/SOM obligatorio** en "thesis" | ⚠️ Solo Latitud lo exige con fórmula — inputs (meta a 5 años, tamaño de segmento) pendientes de confirmar |
 | Tracción / ingresos | "How far along are you?" + Yes/No revenue | Ventas mes a mes (6 meses) + clientes totales + cash on hand | "What's your current stage?" (dropdown) | ⚠️ Los 3 necesitan el mismo dato duro: MRR real y clientes actuales — **un solo número que falta y bloquea las 3 postulaciones** |
-| Full-time / dedicación del equipo | "How long have each of you been working on this?" | "Quiénes están tiempo completo/medio tiempo" | "Are you full-time on this startup?" | ⚠️ Mismo bloqueante en los 3: fechas reales + status de Sebastián |
+| Full-time / dedicación del equipo | "How long have each of you been working on this?" | "Quiénes están tiempo completo/medio tiempo" | "Are you full-time on this startup?" | ⚠️ Roles y LinkedIn de los 3 ya confirmados; falta solo fechas exactas de inicio/full-time |
 | Ubicación | "Where do you live now..." | "Ciudad(es) de operación" | "Where are you currently based?" | ⚠️ Mismo dato falta en los 3 |
-| Entidad legal / equity | "Have you formed ANY legal entity yet?" | "Describe a detalle los accionistas..." | (no se pregunta directamente) | ⚠️ Bloqueante compartido YC + 500: entidad, país, % de cada founder (incluyendo si Sebastián tiene equity) |
+| Entidad legal / equity | "Have you formed ANY legal entity yet?" | "Describe a detalle los accionistas..." | (no se pregunta directamente) | ⚠️ Bloqueante compartido YC + 500: entidad, país, % exacto de cada uno de los 3 founders (los 3 son founders formales con equity, confirmado) |
 | Inversión previa / fundraising activo | "Have you taken any investment yet?" / "Are you currently fundraising?" | "¿Han recibido inversión?" | "Have you raised any external funding?" | ⚠️ Mismo dato, falta confirmar en los 3 (probablemente "No" en todos si es bootstrapped) |
 | Motivación personal / por qué esta idea | "Why did you pick this idea..." | (implícito, no explícito) | "Why are you the right person to build this?" + "What's the most impressive thing you've ever done?" | ✅ Redactado en YC y Latitud — reusar la misma narrativa de 8 años en RevOps |
 | Progreso reciente | (no se pregunta explícito) | "¿Hay algo adicional...?" (transparencia de obstáculos) | **"What have you done in the last 30 days?"** | ⚠️ Solo Latitud lo pide explícito y en tiempo real — necesita un hecho concreto y reciente, no reusar texto genérico |
@@ -41,11 +41,12 @@
 
 ## Bloqueantes que son compartidos entre las 3 postulaciones (resolver una vez, se propaga a todas)
 
-1. ~~Status de Sebastián~~ — **RESUELTO 2026-07-30: es founder formal, con equity, líder
-   operativo.** Falta el dato puntual (no la decisión): apellido, LinkedIn, background,
-   % de equity, fecha de inicio/full-time. Esto significa que Sebastián **sí** necesita su
-   propia versión de `postulacion-latitud.md` (es per-founder) y **sí** entra en el video
-   de founders y en la sección de accionistas de YC y 500.
+1. ~~Status de Sebastián~~ — **RESUELTO 2026-07-30: es founder formal, con equity, Director
+   Operativo, tiempo completo desde que se creó la empresa** (nombre completo: Sebastián
+   Burgos; LinkedIn confirmado). Igual que Ernesto Hernández (Gerente Comercial, LinkedIn
+   confirmado). Falta solo: % de equity exacto de cada uno y fecha de incorporación. Esto
+   significa que Sebastián **sí** necesita su propia versión de `postulacion-latitud.md`
+   (es per-founder) y **sí** entra en el video de founders y en accionistas de YC y 500.
 2. **Número duro de tracción** — MRR actual, clientes activos, ventas mes a mes de 6 meses,
    cash on hand. Es el mismo dato pedido de formas distintas en las 3.
 3. **Entidad legal y cap table** — país de incorporación, tipo de entidad, % de cada founder.
