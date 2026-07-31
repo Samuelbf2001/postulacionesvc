@@ -237,13 +237,20 @@ Guion sugerido (2 minutos, español, los 3 founders si es posible, sin producci�
 
 ### ¿Cuáles son los features más importantes en tu roadmap de producto de los siguientes 4 meses?
 
-> `[CONFIRMAR con Ernesto/Sebastián — propuesta de estructura, reemplazar por los reales:]`
-> 1. `[Ej: llevar el agente de WhatsApp (Echo) a autonomía completa en calificación de leads sin revisión humana en la vertical de viajes]`
-> 2. `[Ej: dashboard de cliente self-service para ver consumo de créditos y reportes en tiempo real]`
-> 3. `[Ej: expandir el agente de CRM/Pipeline (Delta) a la vertical de inmobiliarias]`
-> 4. `[Ej: ampliar la capa de integración vía MCP/API a más sistemas del cliente (ERP, BI) —
->    OJO: ya NO va "reemplazar GoHighLevel por infraestructura propia"; contradice la postura
->    confirmada el 2026-07-30 de no reconstruir la rueda e integrar lo que ya existe.]`
+> **ES (confirmado por Ernesto el 2026-07-30):**
+> 1. **Agente orquestador de la operación.** Un agente que gobierna el ciclo completo de cada
+>    solicitud del cliente: recepción, planificación, delegación a los agentes especializados,
+>    revisión del trabajo entregado, escalamiento a revisión humana cuando el criterio lo exige,
+>    y entrega de pendientes. Construido sobre un SDK propio de agentes de IA intercomunicados.
+> 2. **Estructuración de memoria por cliente.** Una capa de contexto persistente que mantiene,
+>    por cada cliente, cómo opera su negocio, sus objetivos y las herramientas de su stack, para
+>    que cualquier agente ejecute con el contexto completo y no partiendo de cero en cada
+>    solicitud.
+
+`[PENDIENTE DE DECIDIR: ¿se suma como tercer feature "ampliar la capa de integración vía MCP/API
+a más sistemas del cliente (ERP, BI)"? Venía del borrador anterior y es consistente con la
+postura confirmada el 2026-07-30 de no reconstruir la rueda e integrar lo que ya existe. NO va
+"reemplazar GoHighLevel por infraestructura propia" — eso contradice esa postura.]`
 
 ### ¿Cómo se ha desarrollado la tecnología? Indica si el desarrollo fue realizado internamente, externalizado o en colaboración con terceros no fundadores.
 
