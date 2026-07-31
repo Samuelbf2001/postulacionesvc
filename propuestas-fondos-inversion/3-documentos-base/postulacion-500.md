@@ -170,33 +170,26 @@ Guion sugerido (2 minutos, español, los 3 founders si es posible, sin producci�
 ### ¿Quiénes son tu competencia directa y/o indirecta? ¿Existe alguna solución similar en tu mercado o en otros mercados?
 
 > **ES:**
-> Competimos con cinco alternativas, ninguna de las cuales opera la tecnología del cliente
-> de punta a punta:
+> **Competencia directa e indirecta:**
 >
 > 1. **Agentes de IA nativos de las plataformas** (HubSpot, Salesforce, GoHighLevel y sus
->    revendedores white-label): la herramienta trae su propio agente, pero alguien tiene que
->    configurarlo, conectarlo al resto del stack y operarlo. Ese alguien no existe en nuestro
->    cliente.
-> 2. **Agencias y consultoras de tecnología y automatización:** implementan y se van. Venden
->    horas y proyectos, no operación continua, y su costo escala linealmente con su equipo.
-> 3. **Agentes generalistas de IA (Manus y similares):** técnicamente potentes, pero le
->    devuelven el trabajo al cliente — siguen requiriendo que alguien defina qué construir,
->    lo conecte a sus sistemas y responda por el resultado de negocio.
-> 4. **Freelancers:** dependencia de una sola persona, sin metodología, continuidad ni
->    responsabilidad sobre la operación.
-> 5. **Equipo de TI interno:** la alternativa más cara y lenta de montar para una empresa de
->    10 a 100 empleados, y la más difícil de mantener actualizada al ritmo de la IA.
+>    revendedores white-label): la herramienta trae su propio agente, pero requiere que alguien
+>    lo configure, lo conecte al resto del stack y lo opere.
+> 2. **Agencias y consultoras de tecnología y automatización:** implementan y entregan; venden
+>    horas y proyectos, no operación continua.
+> 3. **Agentes generalistas de IA (Manus y similares):** ejecutan tareas, pero el cliente sigue
+>    definiendo qué construir, conectándolo a sus sistemas y respondiendo por el resultado.
+> 4. **Freelancers:** ejecución puntual dependiente de una sola persona, sin metodología ni
+>    continuidad.
+> 5. **Equipo de TI interno:** la alternativa de las empresas que pueden absorber el costo fijo
+>    y el tiempo de contratación.
 >
-> **Soluciones similares en otros mercados:** `[CONFIRMAR grafía exacta: "Pon foaster"]` y el
-> modelo de *agency automation* que está emergiendo en EE.UU. — empresas que automatizan la
-> entrega de servicios con IA en lugar de escalar headcount.
->
-> **Nuestra diferencia:** por cada $1 que una empresa gasta en software, gasta ~$6 en los
-> servicios y la mano de obra para operarlo — el mercado real no es la herramienta, es la capa
-> de operación. Cobramos por operación entregada y no por asiento ni por hora, así que evitamos
-> la trampa del SaaS por asiento (donde hacer al cliente más eficiente reduce tus ingresos), y
-> cada flujo que automatizamos queda como capacidad instalada reutilizable para el siguiente
-> cliente. No vendemos horas: vendemos operación ejecutada por agentes.
+> **Soluciones similares en otros mercados:** en Estados Unidos existen dos comparables
+> cercanos. **Foaster** (YC P26, San Francisco) opera con agentes de IA que mapean cómo funciona
+> la empresa, construyen su roadmap de IA y acompañan la adopción, con revisión humana encima.
+> **Agency Automation** trabaja el mismo espacio, escalando la entrega de servicios con IA en
+> lugar de headcount. Que este modelo esté siendo construido y financiado en EE.UU. valida la
+> tesis en el mercado hacia el que dirigimos nuestro go-to-market.
 
 ---
 
