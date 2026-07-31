@@ -66,7 +66,7 @@ incorporación/full-time de cada uno. Esto también afecta la sección EQUITY m�
 
 Guion sugerido (60 segundos, en inglés, cámara al frente, sin slides, **los 3 founders**):
 
-1. **0–15s:** "Hi, I'm Samuel, this is Ernesto, and this is Sebastián. We're the founders of Sixteam. I've spent 8+ years in revenue operations; Ernesto leads our commercial relationships; Sebastián runs day-to-day operations, making sure what our agents and specialists deliver actually lands with the client."
+1. **0–15s:** "Hi, I'm Samuel, this is Ernesto, and this is Sebastián. We're the founders of Sixteam. I've spent 5 years as a consultant and implementer of technology transformation for revenue operations; Ernesto has 3 years in process engineering; Sebastián has 3 years operating technology for companies, and runs our day-to-day operations."
 2. **15–35s:** "AI solved the first barrier for small businesses — powerful technology is now cheap. But the second barrier is still there: implementing it, operating it, and making it produce revenue. That's what we do. Our AI agents do the execution work; our specialists do the judgment work."
 3. **35–50s:** "We already run this for paying customers across Latin America — travel agencies, clinics, real estate — on monthly retainers with usage-based credits, not seats. 50+ projects delivered, 98% satisfaction."
 4. **50–60s:** "We're building the AI-native services firm for the 99% of businesses that will never hire a tech team. We'd love to build it at YC."
@@ -210,63 +210,35 @@ Sugerencia de contenido: screen recording mostrando (1) un cliente enviando una 
 ### 13. How far along are you?
 
 > **ES (borrador de trabajo):**
-> Estamos en producción, con clientes pagando y facturación recurrente — pero seamos
-> precisos sobre en qué punto estamos: todavía no hemos construido el ecosistema completo de
-> tecnología y agentes que la operación necesita. Ya entregamos el resultado; hoy lo
-> entregamos con más intervención humana de la que queremos. Alrededor del **60% de las
-> acciones dentro de la operación de un cliente las ejecutan nuestros agentes de IA y el 40%
-> nuestros especialistas.**
+> **ES (borrador de trabajo):**
+> Estamos en fase de validación, con clientes pagando: 8 clientes en retainer mensual y
+> ~$8,000 de MRR.
 >
-> Ese 40% no es un defecto del negocio: es nuestro roadmap. El cliente ya paga por el
-> resultado y ya lo recibe — lo que estamos construyendo es la autonomía con la que se
-> produce. La meta es llevar la operación a **90% agentes / 10% humano**, y el camino es
-> concreto: llevamos operaciones específicas a autonomía end-to-end, una por una. Cada
-> operación que un agente completa sin intervención deja de consumir tiempo de especialista
-> y se vuelve capacidad instalada que sirve a todos los clientes siguientes. El 10% humano
-> que queda no es ejecución: es configurar y operar la tecnología y los agentes que corren
-> el negocio del cliente.
+> Todavía no está construido todo el ecosistema de agentes: hoy ~60% de las acciones de la
+> operación las ejecuta la IA y 40% nuestros especialistas. Ese 40% es nuestro roadmap, no un
+> defecto — el cliente ya recibe el resultado; lo que construimos es la autonomía con la que
+> se produce. Vamos a 90/10 llevando operaciones a autonomía end-to-end una por una.
 >
-> En números: hoy tenemos `[DATO: N]` clientes en retainer mensual ($199–$1,200+/mes más
-> créditos por uso) y un MRR de `[DATO: $X]`, contra `[DATO: $Y]` hace seis meses. Antes del
-> modelo recurrente entregamos 50+ proyectos de implementación en 15+ sectores con 98% de
-> satisfacción: esa base de clientes es la que estamos convirtiendo a operación recurrente,
-> y es nuestra señal de demanda más fuerte. Clientes actuales incluyen MasterViajes y
-> Student Travel Center (viajes) y Mizar (inmobiliaria).
->
-> Cuatro agentes de IA ya corren dentro de la operación real de clientes: atienden leads
-> entrantes por WhatsApp, mueven oportunidades en el CRM, ejecutan seguimiento y generan la
-> reportería que el cliente ve. Procesan `[DATO: N operaciones/mes]`.
->
-> Lo siguiente es `[DATO: 1 sola cosa concreta — ej. llevar la calificación de leads en la
-> vertical de viajes a autonomía total sin revisión humana]`.
+> Los últimos meses construimos un agente por cada tipo de acción de la operación: análisis
+> de datos, pauta digital, CRM, desempeño del equipo comercial y gestión de proyectos.
+> Probarlos con clientes reales validó la tesis: la tecnología sola no basta, hace falta
+> quien la implemente y la opere. Lo siguiente es hacer las dos cosas a la vez — salir a
+> conseguir más clientes y seguir construyendo el ecosistema de agentes.
 
 > **EN (listo para pegar):**
-> We're in production, with paying customers and recurring revenue — but to be precise about
-> where we are: we haven't yet built the full technology and agent stack the operation
-> needs. We already deliver the outcome; today we deliver it with more human intervention
-> than we want. Roughly **60% of the actions inside a client's operation are executed by our
-> AI agents, and 40% by our specialists.**
+> We're in validation, with paying customers: 8 customers on monthly retainers and ~$8,000
+> MRR.
 >
-> That 40% isn't a flaw in the business — it's our roadmap. The customer already pays for
-> the outcome and already gets it; what we're building is the autonomy it's produced with.
-> The target is **90% agents / 10% human**, and the path is concrete: we take specific
-> operations to end-to-end autonomy, one at a time. Every operation an agent completes
-> without intervention stops consuming specialist time and becomes installed capacity that
-> serves every client after it. The remaining 10% of human work isn't execution — it's
-> configuring and operating the technology and the agents that run the client's business.
+> The full agent stack isn't built yet: today ~60% of the actions in a client's operation
+> are executed by AI and 40% by our specialists. That 40% is our roadmap, not a flaw — the
+> customer already gets the outcome; what we're building is the autonomy it's produced with.
+> We're driving to 90/10 by taking operations to end-to-end autonomy one at a time.
 >
-> The numbers: today we have `[DATO: N]` customers on monthly retainers ($199–$1,200+/mo
-> plus usage-based credits), at `[DATO: $X]` MRR — up from `[DATO: $Y]` six months ago.
-> Before the recurring model we delivered 50+ implementation projects across 15+ industries
-> at 98% customer satisfaction; that customer base is what we're converting into recurring
-> operations, and it's our strongest demand signal. Current customers include MasterViajes
-> and Student Travel Center (travel) and Mizar (real estate).
->
-> Four AI agents already run inside real client operations: they handle inbound leads on
-> WhatsApp, move deals through the CRM, run follow-up, and generate the reporting the client
-> sees. They process `[DATO: N operations/month]`.
->
-> Next up is `[DATO: una sola cosa concreta]`.
+> Over the last few months we built one agent per type of action in the operation: data
+> analysis, paid ads, CRM, sales-team performance, and project management. Running them with
+> real customers validated the thesis: the technology alone isn't enough — someone has to
+> implement and operate it. Next is doing both at once — going out for more customers while
+> we keep building the agent ecosystem.
 
 `[NOTA: si el MRR aún es pequeño, ponerlo igual. YC financia trayectorias, no tamaños —
 "$3,200 MRR, up from $900 six months ago" es una respuesta fuerte. Un rango vago o un
@@ -448,12 +420,32 @@ aplicantes la harán bien. Opciones:
 
 ### Why did you pick this idea to work on? Do you have domain expertise? How do you know people need this?
 
-> We didn't pick it — we backed into it after 8 years inside the problem. Samuel spent
-> 8+ years in revenue operations, Ernesto 6+ years in process engineering. Together we
-> delivered 50+ technology implementations for SMBs, and we watched the same failure
-> repeat: the implementation succeeds, the client is happy, and six months later the
-> system is a data cemetery — because nobody operates it. Industry data agrees (Gartner:
-> 50–70% of CRM implementations fail to deliver results, mostly from low adoption).
+> **ES (borrador de trabajo):**
+> No la elegimos — llegamos a ella después de años metidos en el problema. Samuel lleva 5
+> años como consultor e implementador de transformación de tecnología para áreas de revenue
+> operations; Ernesto lleva 3 años en ingeniería de procesos; Sebastián lleva 3 años
+> operando tecnología para empresas. Juntos entregamos 50+ implementaciones de tecnología
+> para PyMEs, y vimos el mismo fracaso repetirse una y otra vez: la implementación funciona,
+> el cliente queda feliz, y seis meses después el sistema es un cementerio de datos porque
+> nadie lo opera. Los datos de la industria lo confirman (Gartner: 50–70% de las
+> implementaciones de CRM no entregan resultados, principalmente por baja adopción).
+>
+> La IA eliminó la primera barrera — la tecnología ya es barata. No eliminó la segunda:
+> implementarla, operarla, y lograr que produzca ingresos. Nuestros propios clientes
+> probaron la demanda: nos seguían pidiendo que nos quedáramos después de cada proyecto.
+> Por eso dejamos de vender implementaciones y empezamos a vender la operación — y los
+> clientes pasaron de proyectos puntuales a retainers mensuales. Esa conversión, desde
+> nuestra propia base de clientes, es nuestra señal de demanda más fuerte.
+
+> **EN (listo para pegar):**
+> We didn't pick it — we backed into it after years inside the problem. Samuel spent 5
+> years as a consultant and implementer of technology transformation for revenue
+> operations; Ernesto spent 3 years in process engineering; Sebastián spent 3 years
+> operating technology for companies. Together we delivered 50+ technology implementations
+> for SMBs, and we watched the same failure repeat: the implementation succeeds, the
+> client is happy, and six months later the system is a data cemetery — because nobody
+> operates it. Industry data agrees (Gartner: 50–70% of CRM implementations fail to
+> deliver results, mostly from low adoption).
 >
 > AI removed the first barrier — the technology is now cheap. It did not remove the
 > second: implementing it, operating it, and making it produce revenue. Our own clients
@@ -462,8 +454,32 @@ aplicantes la harán bien. Opciones:
 > one-off projects to monthly retainers. That conversion, from our own project base, is
 > our strongest demand signal.
 
+`[CONFIRMAR: si Sebastián tiene algo más específico que "3 años operando tecnología para
+empresas" que valga la pena agregar, dímelo — hoy es la mención más genérica de las tres.]`
+
 ### Who are your competitors? What do you understand about your business that they don't?
 
+> **ES (borrador de trabajo):**
+> Tres grupos: (1) agencias y freelancers tradicionales, que implementan y se van;
+> (2) herramientas SaaS (HubSpot, GoHighLevel y sus miles de revendedores white-label), que
+> le entregan la herramienta a la PyME y ahí termina su trabajo; (3) startups emergentes de
+> agentes de IA — en LatAm, Cifrato (contabilidad, semilla en Bogotá) es el comparable más
+> cercano, aunque enfocado en una sola función.
+>
+> Lo que entendemos que ellos no: por cada $1 que las PyMEs gastan en software, gastan ~$6
+> en los servicios y la mano de obra para operarlo — el mercado real es la capa de
+> operación, no la herramienta. El SaaS está atrapado estructuralmente: cobrar por asiento
+> significa que mientras más productiva vuelve la IA al cliente, menos gana el proveedor.
+> Nuestro modelo de créditos cobra por operación completada, así que las ganancias de
+> productividad de la IA expanden nuestro margen en vez de reducir nuestro ingreso. Y las
+> agencias no pueden componer: venden horas y resuelven cada problema desde cero, mientras
+> que cada flujo que nosotros productizamos hace más barato atender al siguiente cliente.
+> Hoy alrededor del 60% de las acciones dentro de la operación de un cliente las ejecutan
+> nuestros agentes de IA y el 40% nuestros especialistas — y ese porcentaje sube con cada
+> flujo que llevamos a autonomía completa, algo que ni una agencia ni una herramienta SaaS
+> pueden replicar.
+
+> **EN (listo para pegar):**
 > Three groups: (1) traditional agencies and freelancers, who implement and leave;
 > (2) SaaS tools (HubSpot, GoHighLevel and its thousands of white-label resellers), which
 > hand the SMB a tool and wish them luck; (3) emerging AI-agent startups (in LatAm,
@@ -475,12 +491,34 @@ aplicantes la harán bien. Opciones:
 > makes the customer, the less the vendor earns. Our credit model bills per operation
 > completed, so AI productivity gains expand our margin instead of shrinking our revenue.
 > And agencies can't compound: they sell hours and re-solve every problem from scratch,
-> while every workflow we productize makes the next customer cheaper to serve. We're
-> built as the thing Sequoia and YC have both described: a software company that looks
-> like a services firm.
+> while every workflow we productize makes the next customer cheaper to serve. Today
+> roughly 60% of the actions inside a client's operation are executed by our AI agents and
+> 40% by our specialists — and that share keeps climbing with every workflow we take to
+> full autonomy, something neither an agency nor a SaaS tool can replicate.
+
+`[Quité la línea que decía "We're built as the thing Sequoia and YC have both described..."
+— era decir "somos Service as a Software" sin decirlo, y ya se decidió no autoetiquetarse
+así en el formulario (guardar el término para la entrevista). La reemplacé por el dato real
+60/40, que es más fuerte porque no depende de que el partner conozca la tesis de Sequoia.]`
 
 ### How do or will you make money? How much could you make?
 
+> **ES (borrador de trabajo):**
+> Retainers mensuales con créditos por uso: $199/mes (Esencial), $499/mes (Integral),
+> $1,200+/mes (Total, dedicado). Los clientes entran con un plan pequeño para una necesidad
+> puntual y expanden conforme les operamos más de su negocio — land & expand sin equipo de
+> ventas. Unit economics actuales: `[CONFIRMAR: margen bruto %, churn, expansión]`.
+>
+> Tamaño de mercado: hay 25M+ PyMEs en Latinoamérica y 33M en Estados Unidos. Lo que
+> podemos direccionar no es su presupuesto de software sino su presupuesto de
+> operaciones/servicios — el mercado de ~$4.6 billones (trillion) en servicios
+> profesionales que los agentes de IA están empezando a absorber. Con un promedio de
+> $500/mes por cliente, 10,000 clientes son $60M de ARR; 100,000 son $600M de ARR. La
+> palanca de IA+humano es lo que hace esto alcanzable: hoy cada especialista, amplificado
+> por agentes, puede operar `[CONFIRMAR: N]` cuentas, y ese número crece con cada mejora de
+> nuestros agentes.
+
+> **EN (listo para pegar):**
 > Monthly retainers with usage-based credits: $199/mo (Essential), $499/mo (Integral),
 > $1,200+/mo (Total, dedicated). Customers land on a small plan for one urgent need and
 > expand as we take over more of their operation — land & expand without a sales team.
@@ -492,6 +530,9 @@ aplicantes la harán bien. Opciones:
 > $500/mo per customer, 10,000 customers is $60M ARR; 100,000 is $600M ARR. The AI+human
 > leverage is what makes that reachable: each specialist, amplified by agents, can
 > operate [CONFIRMAR: N] accounts today, and that number grows with every model release.
+
+`[Siguen dos huecos reales: margen bruto/churn/expansión, y cuántas cuentas maneja hoy un
+especialista. Sin esos dos números el resto de la respuesta es sólida.]`
 
 ### If you had any other ideas you considered applying with, please list them.
 

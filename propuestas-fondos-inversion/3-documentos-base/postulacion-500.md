@@ -15,8 +15,10 @@
 ### Sube un video de 2 minutos explicando qué están construyendo y cuál es su motivación
 
 Guion sugerido (2 minutos, español, los 3 founders si es posible, sin producción):
-1. **0–20s (Samuel):** Quiénes son, cuántos años llevan en el problema (RevOps/procesos), y el
-   fracaso que vieron repetirse: implementaciones de tecnología que el cliente no logra operar.
+1. **0–20s (Samuel):** Quiénes son — Samuel (5 años como consultor e implementador de
+   transformación tecnológica en RevOps), Ernesto (3 años en procesos), Sebastián (3 años
+   operando tecnología para empresas) — y el fracaso que vieron repetirse: implementaciones
+   de tecnología que el cliente no logra operar.
 2. **20–50s:** Qué construyeron — agentes de IA que operan el sistema comercial del cliente
    (leads, pipeline, seguimiento, reportes) + especialistas humanos que aportan criterio y
    metodología. Mencionar el sistema de créditos (cobran por operación, no por hora ni asiento).

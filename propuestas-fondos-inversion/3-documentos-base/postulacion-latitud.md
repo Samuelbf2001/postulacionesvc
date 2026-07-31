@@ -71,8 +71,9 @@
 ### Why are you the right person to build this?
 
 > **EN (borrador):**
-> I spent 8+ years in revenue operations before starting Sixteam, and delivered 50+
-> technology implementations for SMBs with my cofounders. I watched the same failure
+> I spent 5 years as a consultant and implementer of technology transformation for
+> revenue operations before starting Sixteam, and delivered 50+ technology
+> implementations for SMBs with my cofounders. I watched the same failure
 > repeat across every client: the implementation works, everyone's happy, and six months
 > later the system is a data cemetery because nobody operates it. I didn't theorize this
 > problem — I lived inside it for years before deciding the operation itself was the
