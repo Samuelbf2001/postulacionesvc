@@ -41,9 +41,11 @@
 
 ## Bloqueantes que son compartidos entre las 3 postulaciones (resolver una vez, se propaga a todas)
 
-1. **Status de Sebastián** — founder formal con equity vs. team lead sin equity. Afecta:
-   video(s), "quién trabaja en esto", equity/accionistas, y cuántas versiones de Latitud
-   hay que llenar.
+1. ~~Status de Sebastián~~ — **RESUELTO 2026-07-30: es founder formal, con equity, líder
+   operativo.** Falta el dato puntual (no la decisión): apellido, LinkedIn, background,
+   % de equity, fecha de inicio/full-time. Esto significa que Sebastián **sí** necesita su
+   propia versión de `postulacion-latitud.md` (es per-founder) y **sí** entra en el video
+   de founders y en la sección de accionistas de YC y 500.
 2. **Número duro de tracción** — MRR actual, clientes activos, ventas mes a mes de 6 meses,
    cash on hand. Es el mismo dato pedido de formas distintas en las 3.
 3. **Entidad legal y cap table** — país de incorporación, tipo de entidad, % de cada founder.

@@ -37,9 +37,12 @@ Guion sugerido (2 minutos, español, los 3 founders si es posible, sin producci�
 ### Por favor describe quiénes del equipo fundador están de tiempo completo y quiénes están de medio tiempo
 > Samuel Burgos (CEO / Producto y Tecnología) — tiempo completo. https://www.linkedin.com/in/saburgosf/
 > Ernesto Hernández (Director de Procesos / Comercial) — `[CONFIRMAR: tiempo completo o medio tiempo, LinkedIn]`
-> Sebastián `[CONFIRMAR: apellido]` (Líder de Operación) — `[CONFIRMAR: tiempo completo o medio tiempo, LinkedIn, rol exacto y desde cuándo]`
+> Sebastián `[CONFIRMAR: apellido]` (Líder de Operación, founder) — `[CONFIRMAR: tiempo completo o medio tiempo, LinkedIn, desde cuándo]`
 
-`[BLOQUEANTE: falta el mismo dato que en YC — definir si Sebastián es founder formal (con equity) y su LinkedIn/rol exacto. Sin esto no se puede completar esta pregunta ni la de accionistas más abajo.]`
+`[CONFIRMADO 2026-07-30: Sebastián es founder formal con equity, rol líder operativo — no
+team lead sin equity. Falta solo el dato: apellido, LinkedIn, tiempo dedicado y fecha de
+inicio. Esto ya no bloquea la decisión, solo falta el dato puntual — igual para la
+pregunta de accionistas más abajo.]`
 
 ---
 
@@ -96,9 +99,9 @@ Guion sugerido (2 minutos, español, los 3 founders si es posible, sin producci�
 > `[CONFIRMAR opción del dropdown — si es bootstrapped, la respuesta es "No"]`
 
 ### Describe a detalle los accionistas de su compañía incluyendo el porcentaje de cada uno
-> `[BLOQUEANTE: mismo pendiente que en Equity de YC — entidad legal, país de incorporación,
-> % de Samuel, % de Ernesto, % de Sebastián (si aplica), % reservado para advisors/pool de
-> empleados si existe.]`
+> `[CONFIRMAR: entidad legal, país de incorporación, % de Samuel, % de Ernesto, % de
+> Sebastián (founder formal confirmado — falta el número exacto), % reservado para
+> advisors/pool de empleados si existe.]`
 
 ---
 
@@ -283,7 +286,7 @@ Guion sugerido (2 minutos, español, los 3 founders si es posible, sin producci�
 
 ## CHECKLIST ANTES DE ENVIAR (500)
 
-- [ ] Resolver el bloqueante de Sebastián (founder formal o no, LinkedIn, rol, %)
+- [ ] Datos de Sebastián: apellido, LinkedIn, tiempo dedicado, % de equity (ya confirmado como founder formal)
 - [ ] Confirmar redes sociales, ciudad, año de incorporación, subsector, # empleados
 - [ ] Confirmar si han recibido inversión y detalle de accionistas/cap table
 - [ ] Confirmar GTM real de 6 meses, roadmap real de 4 meses
