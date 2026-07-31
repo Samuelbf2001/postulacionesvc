@@ -95,8 +95,11 @@ Guion sugerido (2 minutos, español, los 3 founders si es posible, sin producci�
 > `[CONFIRMAR opción del dropdown — si es bootstrapped, la respuesta es "No"]`
 
 ### Describe a detalle los accionistas de su compañía incluyendo el porcentaje de cada uno
-> `[CONFIRMAR: entidad legal, país de incorporación, % de Samuel, % de Ernesto, % de
-> Sebastián Burgos, % reservado para advisors/pool de empleados si existe.]`
+> Samuel Burgos — 65%
+> Ernesto Hernández — 25%
+> Sebastián Burgos — 10%
+> No hay inversionistas, advisors ni pool de empleados con equity — 100% en manos de los 3 founders.
+> `[CONFIRMAR: entidad legal y país de incorporación]`
 
 ---
 
