@@ -99,7 +99,6 @@ Guion sugerido (2 minutos, español, los 3 founders si es posible, sin producci�
 > Ernesto Hernández — 25%
 > Sebastián Burgos — 10%
 > No hay inversionistas, advisors ni pool de empleados con equity — 100% en manos de los 3 founders.
-> `[CONFIRMAR: entidad legal y país de incorporación]`
 
 ---
 
