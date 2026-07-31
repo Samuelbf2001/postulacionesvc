@@ -210,47 +210,77 @@ Sugerencia de contenido: screen recording mostrando (1) un cliente enviando una 
 ### 13. How far along are you?
 
 > **ES (borrador de trabajo):**
-> Estamos en producción, con clientes pagando y facturación recurrente. Hoy tenemos
-> `[DATO: N]` clientes en retainer mensual ($199–$1,200+/mes más créditos por uso) y un MRR
-> de `[DATO: $X]`, contra `[DATO: $Y]` hace seis meses. Antes del modelo recurrente
-> entregamos 50+ proyectos de implementación en 15+ sectores con 98% de satisfacción: esa
-> base de clientes es la que estamos convirtiendo a operación recurrente, y es nuestra
-> señal de demanda más fuerte.
+> Estamos en producción, con clientes pagando y facturación recurrente — pero seamos
+> precisos sobre en qué punto estamos: todavía no hemos construido el ecosistema completo de
+> tecnología y agentes que la operación necesita. Ya entregamos el resultado; hoy lo
+> entregamos con más intervención humana de la que queremos. Alrededor del **60% de las
+> acciones dentro de la operación de un cliente las ejecutan nuestros agentes de IA y el 40%
+> nuestros especialistas.**
 >
-> Cuatro agentes de IA están corriendo dentro de la operación real de clientes: atienden
-> leads entrantes por WhatsApp, mueven oportunidades en el CRM, ejecutan seguimiento y
-> generan la reportería que el cliente ve. Procesan `[DATO: N operaciones/mes]`, de las
-> cuales `[DATO: ~X%]` se completan de punta a punta sin intervención humana.
-> Clientes actuales incluyen MasterViajes y Student Travel Center (viajes) y Mizar
-> (inmobiliaria).
+> Ese 40% no es un defecto del negocio: es nuestro roadmap. El cliente ya paga por el
+> resultado y ya lo recibe — lo que estamos construyendo es la autonomía con la que se
+> produce. La meta es llevar la operación a **90% agentes / 10% humano**, y el camino es
+> concreto: llevamos operaciones específicas a autonomía end-to-end, una por una. Cada
+> operación que un agente completa sin intervención deja de consumir tiempo de especialista
+> y se vuelve capacidad instalada que sirve a todos los clientes siguientes. El 10% humano
+> que queda no es ejecución: es configurar y operar la tecnología y los agentes que corren
+> el negocio del cliente.
 >
-> En los últimos `[DATO: N]` meses reconstruimos el negocio alrededor del modelo de
-> créditos: cada tipo de solicitud tiene un precio fijo en créditos, así que cada flujo que
-> llevamos a autonomía total se convierte directamente en margen en vez de en más horas.
+> En números: hoy tenemos `[DATO: N]` clientes en retainer mensual ($199–$1,200+/mes más
+> créditos por uso) y un MRR de `[DATO: $X]`, contra `[DATO: $Y]` hace seis meses. Antes del
+> modelo recurrente entregamos 50+ proyectos de implementación en 15+ sectores con 98% de
+> satisfacción: esa base de clientes es la que estamos convirtiendo a operación recurrente,
+> y es nuestra señal de demanda más fuerte. Clientes actuales incluyen MasterViajes y
+> Student Travel Center (viajes) y Mizar (inmobiliaria).
+>
+> Cuatro agentes de IA ya corren dentro de la operación real de clientes: atienden leads
+> entrantes por WhatsApp, mueven oportunidades en el CRM, ejecutan seguimiento y generan la
+> reportería que el cliente ve. Procesan `[DATO: N operaciones/mes]`.
+>
 > Lo siguiente es `[DATO: 1 sola cosa concreta — ej. llevar la calificación de leads en la
 > vertical de viajes a autonomía total sin revisión humana]`.
 
 > **EN (listo para pegar):**
-> We're in production, with paying customers and recurring revenue. Today we have
-> `[DATO: N]` customers on monthly retainers ($199–$1,200+/mo plus usage-based credits),
-> at `[DATO: $X]` MRR — up from `[DATO: $Y]` six months ago. Before the recurring model we
-> delivered 50+ implementation projects across 15+ industries at 98% customer satisfaction;
-> that customer base is what we're converting into recurring operations, and it's our
-> strongest demand signal.
+> We're in production, with paying customers and recurring revenue — but to be precise about
+> where we are: we haven't yet built the full technology and agent stack the operation
+> needs. We already deliver the outcome; today we deliver it with more human intervention
+> than we want. Roughly **60% of the actions inside a client's operation are executed by our
+> AI agents, and 40% by our specialists.**
 >
-> Four AI agents run inside real client operations today: they handle inbound leads on
-> WhatsApp, move deals through the CRM, run follow-up, and generate the reporting the
-> client sees. They process `[DATO: N operations/month]`, of which `[DATO: ~X%]` complete
-> end-to-end with no human touching them. Current customers include MasterViajes and
-> Student Travel Center (travel) and Mizar (real estate).
+> That 40% isn't a flaw in the business — it's our roadmap. The customer already pays for
+> the outcome and already gets it; what we're building is the autonomy it's produced with.
+> The target is **90% agents / 10% human**, and the path is concrete: we take specific
+> operations to end-to-end autonomy, one at a time. Every operation an agent completes
+> without intervention stops consuming specialist time and becomes installed capacity that
+> serves every client after it. The remaining 10% of human work isn't execution — it's
+> configuring and operating the technology and the agents that run the client's business.
 >
-> Over the last `[DATO: N]` months we rebuilt the business around the credit model: every
-> request type has a fixed credit price, so every workflow we take to full autonomy turns
-> directly into margin instead of more hours. Next up is `[DATO: una sola cosa concreta]`.
+> The numbers: today we have `[DATO: N]` customers on monthly retainers ($199–$1,200+/mo
+> plus usage-based credits), at `[DATO: $X]` MRR — up from `[DATO: $Y]` six months ago.
+> Before the recurring model we delivered 50+ implementation projects across 15+ industries
+> at 98% customer satisfaction; that customer base is what we're converting into recurring
+> operations, and it's our strongest demand signal. Current customers include MasterViajes
+> and Student Travel Center (travel) and Mizar (real estate).
+>
+> Four AI agents already run inside real client operations: they handle inbound leads on
+> WhatsApp, move deals through the CRM, run follow-up, and generate the reporting the client
+> sees. They process `[DATO: N operations/month]`.
+>
+> Next up is `[DATO: una sola cosa concreta]`.
 
 `[NOTA: si el MRR aún es pequeño, ponerlo igual. YC financia trayectorias, no tamaños —
 "$3,200 MRR, up from $900 six months ago" es una respuesta fuerte. Un rango vago o un
 adjetivo en lugar del número es lo que sí penaliza.]`
+
+`[DECISIÓN 2026-07-30 — el 60/40 → 90/10 es ahora el eje de esta respuesta. Cambia el
+marco de "somos una empresa terminada" a "entregamos resultado hoy y estamos comprando
+autonomía mes a mes", que es lo que YC financia. Es también la respuesta a la objeción
+"esto es una agencia": una agencia no tiene un número que se mueve.
+**Pendiente de rigor:** definir si el 60/40 es medido o estimado, y sobre qué unidad
+(¿acciones? ¿solicitudes? ¿créditos consumidos?). Si sale del sistema de créditos, es
+verificable y se declara sin hedge. Si es estimación de founder, escribir "roughly" /
+"our own estimate" — nunca presentar como medido lo que no lo está. Misma disciplina con la
+que se quitó el "80/20 agentes/humanos" el 2026-07-25.]`
 
 ### 14. How long have each of you been working on this? How much of that has been full-time? Please explain.
 
