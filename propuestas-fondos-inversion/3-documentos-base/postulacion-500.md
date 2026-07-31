@@ -129,16 +129,22 @@ Guion sugerido (2 minutos, español, los 3 founders si es posible, sin producci�
 
 ### ¿Cuál es la estrategia comercial y de marketing (go-to-market) para los próximos 6 meses?
 
-> `[CONFIRMAR: plan real de GTM de los próximos 6 meses. Borrador con la mecánica actual —
-> ajustar cifras/metas:]`
-> Nuestro embudo de entrada es el "Radar" — un diagnóstico gratuito de 48 horas que mapea
-> dónde el cliente está perdiendo dinero en su operación comercial. Esto elimina la fricción
-> de venta consultiva tradicional (sin propuestas de 30 páginas). De ahí pasan a una llamada
-> de alineación de 30 minutos y entran directo a un plan mensual (Esencial/Integral/Total).
-> Para los próximos 6 meses: `[CONFIRMAR — ej. "duplicar clientes en la vertical ancla de
-> viajes vía referidos + 2 partnerships con asociaciones del sector; profundizar en la
-> vertical de servicios con cita; probar canal de outbound frío en inglés hacia SMBs de
-> EE.UU."]`
+> **ES:**
+> Nuestra venta es de baja fricción: el cliente entra por una necesidad puntual y con un plan
+> mensual de bajo compromiso, en lugar de un proyecto de implementación largo y costoso. Eso
+> acorta el ciclo de venta y hace que la decisión inicial sea fácil de tomar; el crecimiento
+> real viene después, cuando el cliente nos confía más operación (land & expand).
+>
+> Para los próximos 6 meses el foco está en tres frentes:
+> 1. **Referidos y expansión de cuentas actuales** — es nuestro canal principal hoy y el de
+>    menor costo de adquisición; queremos sistematizarlo en lugar de dejarlo al azar.
+> 2. **Concentración por vertical** — profundizar en los sectores donde ya tenemos casos y
+>    resultados demostrables, para que cada cliente nuevo cueste menos que el anterior.
+> 3. **Contenido y outbound** — construir presencia y demanda entrante alrededor del problema
+>    que resolvemos, y probar prospección directa hacia el mismo perfil de cliente.
+>
+> `[CONFIRMAR: metas numéricas de los próximos 6 meses — número de clientes, MRR objetivo y
+> mezcla esperada por canal.]`
 
 ### Describe el modelo de negocio de tu empresa, explicando cómo hace dinero
 

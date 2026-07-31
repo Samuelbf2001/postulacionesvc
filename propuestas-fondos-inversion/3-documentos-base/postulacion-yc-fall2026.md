@@ -210,35 +210,37 @@ Sugerencia de contenido: screen recording mostrando (1) un cliente enviando una 
 ### 13. How far along are you?
 
 > **ES (borrador de trabajo):**
-> **ES (borrador de trabajo):**
+> **ES (FINAL — validado por Samuel 2026-07-30):**
 > Estamos en fase de validación, con clientes pagando: 8 clientes en retainer mensual y
 > ~$8,000 de MRR.
 >
 > Todavía no está construido todo el ecosistema de agentes: hoy ~60% de las acciones de la
-> operación las ejecuta la IA y 40% nuestros especialistas. Ese 40% es nuestro roadmap, no un
-> defecto — el cliente ya recibe el resultado; lo que construimos es la autonomía con la que
-> se produce. Vamos a 90/10 llevando operaciones a autonomía end-to-end una por una.
+> operación las ejecuta la IA y el 40% nuestros especialistas, con la orquestación a cargo de
+> humanos. Ese 40% y esa orquestación son nuestro roadmap, no un defecto — el cliente ya
+> recibe el resultado; lo que construimos es la autonomía con la que se produce. Vamos a
+> 90/10 llevando operaciones a autonomía end-to-end una por una.
 >
-> Los últimos meses construimos un agente por cada tipo de acción de la operación: análisis
-> de datos, pauta digital, CRM, desempeño del equipo comercial y gestión de proyectos.
-> Probarlos con clientes reales validó la tesis: la tecnología sola no basta, hace falta
-> quien la implemente y la opere. Lo siguiente es hacer las dos cosas a la vez — salir a
-> conseguir más clientes y seguir construyendo el ecosistema de agentes.
+> Los últimos meses construimos un agente por cada tipo de acción de la operación de nuestros
+> clientes: análisis de datos, pauta digital, CRM, desempeño del equipo comercial y gestión
+> de proyectos. Probarlos con clientes reales validó la tesis: la tecnología sola no basta,
+> hace falta quien la implemente y la opere. Lo siguiente es hacer las dos cosas a la vez —
+> salir a conseguir más clientes y seguir construyendo el ecosistema de agentes.
 
-> **EN (listo para pegar):**
+> **EN (FINAL — listo para pegar en el formulario):**
 > We're in validation, with paying customers: 8 customers on monthly retainers and ~$8,000
 > MRR.
 >
-> The full agent stack isn't built yet: today ~60% of the actions in a client's operation
-> are executed by AI and 40% by our specialists. That 40% is our roadmap, not a flaw — the
-> customer already gets the outcome; what we're building is the autonomy it's produced with.
-> We're driving to 90/10 by taking operations to end-to-end autonomy one at a time.
+> The full agent ecosystem isn't built yet: today ~60% of the actions in the operation are
+> executed by AI and 40% by our specialists, with humans doing the orchestration. That 40%
+> and that orchestration are our roadmap, not a flaw — the customer already gets the outcome;
+> what we're building is the autonomy it's produced with. We're driving to 90/10 by taking
+> operations to end-to-end autonomy one at a time.
 >
-> Over the last few months we built one agent per type of action in the operation: data
-> analysis, paid ads, CRM, sales-team performance, and project management. Running them with
-> real customers validated the thesis: the technology alone isn't enough — someone has to
-> implement and operate it. Next is doing both at once — going out for more customers while
-> we keep building the agent ecosystem.
+> Over the last few months we built one agent for each type of action in our customers'
+> operations: data analysis, paid ads, CRM, sales-team performance, and project management.
+> Running them with real customers validated the thesis: the technology alone isn't enough —
+> someone has to implement and operate it. Next is doing both at once: going out for more
+> customers while we keep building the agent ecosystem.
 
 `[NOTA: si el MRR aún es pequeño, ponerlo igual. YC financia trayectorias, no tamaños —
 "$3,200 MRR, up from $900 six months ago" es una respuesta fuerte. Un rango vago o un
