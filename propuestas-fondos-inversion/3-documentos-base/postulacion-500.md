@@ -106,17 +106,14 @@ Guion sugerido (2 minutos, español, los 3 founders si es posible, sin producci�
 
 ### Describe a tu usuario y/o cliente
 
-> **ES (borrador):**
-> Nuestro cliente es el dueño o gerente comercial de un negocio de servicios pequeño o
-> mediano en Latinoamérica — típicamente entre 10 y 50 personas, sin un VP de Ventas o head
-> de RevOps interno. Hoy en día opera su parte comercial de forma manual e intuitiva:
-> responde leads desde su WhatsApp personal, cotiza de memoria, y su equipo sigue el proceso
-> "como cada uno entendió". Es el mismo perfil que ya tercerizó su nómina y su contabilidad,
-> pero nunca ha tercerizado la operación de su tecnología comercial. Cliente y usuario son la
-> misma persona: paga y usa el servicio directamente (junto con su equipo comercial, que
-> interactúa a diario con los agentes de IA).
-
-`[Verticales de referencia: agencias de viajes, servicios profesionales con cita (dental, médico, legal), inmobiliarias. Ajustar si quieres nombrar una vertical ancla específica aquí.]`
+> **ES:**
+> Nuestro cliente es una empresa de servicios a nivel global, de 10 a 100 empleados, con un
+> equipo de tecnología en crecimiento y en proceso de transformación digital — con problemas
+> operativos causados por tecnología mal implementada o por falta de ella. Es quien decide y
+> paga por el servicio.
+> Nuestro usuario es el equipo comercial y operativo de esa empresa, que interactúa a diario
+> con los agentes de IA y los especialistas de Sixteam para ejecutar la operación (leads,
+> pipeline, seguimiento, reportes). Cliente y usuario no siempre son la misma persona.
 
 ### ¿Cuál es el principal dolor que resuelves a tu cliente?
 
