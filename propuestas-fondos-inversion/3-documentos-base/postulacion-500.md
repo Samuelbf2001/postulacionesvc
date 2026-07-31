@@ -130,34 +130,42 @@ Guion sugerido (2 minutos, español, los 3 founders si es posible, sin producci�
 ### ¿Cuál es la estrategia comercial y de marketing (go-to-market) para los próximos 6 meses?
 
 > **ES:**
-> Nuestra venta es de baja fricción: el cliente entra por una necesidad puntual y con un plan
-> mensual de bajo compromiso, en lugar de un proyecto de implementación largo y costoso. Eso
-> acorta el ciclo de venta y hace que la decisión inicial sea fácil de tomar; el crecimiento
-> real viene después, cuando el cliente nos confía más operación (land & expand).
+> Nuestro foco para los próximos 6 meses es la tercerización de la operación tecnológica en
+> empresas de Estados Unidos.
 >
-> Para los próximos 6 meses el foco está en tres frentes:
-> 1. **Referidos y expansión de cuentas actuales** — es nuestro canal principal hoy y el de
->    menor costo de adquisición; queremos sistematizarlo en lugar de dejarlo al azar.
-> 2. **Concentración por vertical** — profundizar en los sectores donde ya tenemos casos y
->    resultados demostrables, para que cada cliente nuevo cueste menos que el anterior.
-> 3. **Contenido y outbound** — construir presencia y demanda entrante alrededor del problema
->    que resolvemos, y probar prospección directa hacia el mismo perfil de cliente.
+> **Adquisición:** contacto frío en tres canales — email, llamada y pauta — que son también
+> el respaldo de nuestra propia operación de marketing y comercial. Sobre cada cliente
+> cerrado construimos una cadena de referidos, hoy nuestro canal de mayor conversión.
 >
-> `[CONFIRMAR: metas numéricas de los próximos 6 meses — número de clientes, MRR objetivo y
-> mezcla esperada por canal.]`
+> **Marketing:** estrategias orgánicas apalancadas en el interés actual por la IA, con
+> productos gancho que entregan valor inmediato, demuestran capacidad técnica y abren la
+> conversación hacia operar la tecnología completa del cliente.
+>
+> **Conversión:** la venta es de baja fricción. Del gancho pasan a un diagnóstico corto de su
+> operación, luego a una llamada de alineación y directo a un plan mensual, sin propuestas
+> largas ni proyectos de implementación costosos de por medio. El crecimiento real viene
+> después, cuando el cliente nos confía más operación (land & expand).
+
+`[CONFIRMAR: metas numéricas de los 6 meses — 500 valora números concretos (ej. "de X a Y clientes", "de $X a $Y MRR", "% de ingresos desde EE.UU."). Sin al menos una meta dura, la respuesta se lee como intención y no como plan.]`
 
 ### Describe el modelo de negocio de tu empresa, explicando cómo hace dinero
 
-> **ES (borrador):**
-> Cobramos un retainer mensual con un sistema de créditos por uso: Esencial ($199/mes, 60
-> créditos), Integral ($499/mes, 160 créditos) y Total (desde $1,200/mes, 400+ créditos
-> acumulables). Cada solicitud del cliente (una automatización, un cambio en el pipeline, un
-> dashboard, una integración) descuenta créditos según su complejidad — no cobramos por
-> asiento ni por hora. Los clientes entran con una necesidad puntual y expanden su plan
-> conforme confían en nosotros para operar más de su negocio (land & expand, sin equipo de
-> ventas dedicado). Este modelo nos alinea con la productividad de la IA: cuando nuestros
-> agentes se vuelven más eficientes, el margen se expande en lugar de destruirse, al
-> contrario del SaaS tradicional por asiento.
+> **ES:**
+> Cobramos un retainer mensual con un sistema de créditos por uso. Tres planes: Esencial
+> ($199/mes, 60 créditos), Integral ($499/mes, 160 créditos) y Total (desde $1,200/mes,
+> 400+ créditos acumulables).
+>
+> **Cómo funcionan los créditos:** cada solicitud del cliente tiene un costo fijo en créditos
+> según su complejidad — una automatización 10–20, una campaña de email 15–30, una integración
+> 20–40, un agente de IA conversacional 30–60. El cliente pide lo que necesita y consume de su
+> bolsa mensual; no cobramos por asiento, por hora ni por proyecto. Los servicios fuera del
+> alcance operativo (pauta, desarrollo a la medida, consultoría) se cotizan aparte.
+>
+> **Por qué este modelo:** los clientes entran en el plan más pequeño con una necesidad puntual
+> y expanden conforme confían en nosotros para operar más de su negocio (land & expand, sin
+> equipo de ventas dedicado). Y como cobramos por operación entregada y no por tiempo, cada
+> mejora en la eficiencia de nuestros agentes de IA expande el margen en lugar de destruir
+> ingresos — lo contrario del SaaS por asiento y de los modelos por hora.
 
 ### ¿Quiénes son tu competencia directa y/o indirecta? ¿Existe alguna solución similar en tu mercado o en otros mercados?
 
