@@ -178,71 +178,239 @@ Sugerencia de contenido: screen recording mostrando (1) un cliente enviando una 
 
 ### Where do you live now, and where would the company be based after YC?
 
-> `[CONFIRMAR ciudad]`, Colombia / San Francisco, USA — or —
-> `[CONFIRMAR ciudad]`, Colombia / `[CONFIRMAR ciudad]`, Colombia
-
-`[Decisión tuya: YC ya no exige mudanza permanente, pero sí presencia en SF durante el batch. Recomendación: comprometerse a SF durante el batch y decidir base después según clientes/equipo. Sé honesto aquí — es pregunta de compromiso, no de geografía.]`
+`[CONFIRMADO 2026-07-31]`
+> Barranquilla, Colombia / San Francisco, USA
 
 ### Explain your decision regarding location.
 
-Versión si la respuesta es "SF después de YC":
-> We'll both be in San Francisco for the batch. Our delivery team and initial customer
-> base are in Latin America, which works in our favor: LatAm SMBs are underserved,
-> labor-cost dynamics make our hybrid AI+human model extremely profitable there, and the
-> playbook we productize transfers directly to US SMBs — which is where we want to expand
-> from SF.
+> **ES (borrador de trabajo):**
+> Nos vamos a San Francisco por el ecosistema: ahí es donde se mueve la conversación de
+> punta sobre IA, y donde están los founders, inversionistas y el talento que están
+> definiendo hacia dónde va el mercado. Necesitamos estar ahí para poder movernos a la
+> velocidad que exige la tecnología y el mercado hoy, y para pivotar de rumbo si hace
+> falta, a esa misma velocidad.
+
+> **EN (listo para pegar):**
+> We're moving to San Francisco for the ecosystem — it's where the cutting-edge AI
+> conversation is happening, and where the founders, investors, and talent shaping where
+> the market is going are based. We need to be there to move at the speed the market and
+> the technology demand today, and to pivot direction if needed, at that same speed.
 
 ---
 
 ## PROGRESS
 
-### How far along are you?
+> **Cómo lee YC esta sección:** es la sección donde no se puede escribir bien sin números.
+> Los partners leen "how far along" buscando tres cosas en orden: (1) ¿está en producción
+> con usuarios reales?, (2) ¿cuánto dinero entra y a qué ritmo crece?, (3) ¿qué construyeron
+> en los últimos meses? Adjetivos ("sólida tracción", "gran satisfacción") restan; números
+> concretos suman. Todo lo marcado `[DATO]` abajo es exactamente eso: un número que tú
+> tienes y que no se puede inventar.
 
-> We are live and revenue-generating. We've delivered 50+ projects across 15+ industries
-> with 98% customer satisfaction, and we've converted that project business into our
-> current recurring model: monthly retainers ($199–$1,200+/mo) with usage-based credits.
-> Current paying customers include travel companies (MasterViajes, Student Travel Center)
-> and real estate (Mizar). Our four AI agents are in production handling
-> [CONFIRMAR: volumen — ej. "X,XXX conversations/month"]. Current MRR:
-> [CONFIRMAR: $X,XXX USD].
+### 13. How far along are you?
 
-### How long have each of you been working on this? How much of that has been full-time?
+> **ES (borrador de trabajo):**
+> Estamos en producción, con clientes pagando y facturación recurrente. Hoy tenemos
+> `[DATO: N]` clientes en retainer mensual ($199–$1,200+/mes más créditos por uso) y un MRR
+> de `[DATO: $X]`, contra `[DATO: $Y]` hace seis meses. Antes del modelo recurrente
+> entregamos 50+ proyectos de implementación en 15+ sectores con 98% de satisfacción: esa
+> base de clientes es la que estamos convirtiendo a operación recurrente, y es nuestra
+> señal de demanda más fuerte.
+>
+> Cuatro agentes de IA están corriendo dentro de la operación real de clientes: atienden
+> leads entrantes por WhatsApp, mueven oportunidades en el CRM, ejecutan seguimiento y
+> generan la reportería que el cliente ve. Procesan `[DATO: N operaciones/mes]`, de las
+> cuales `[DATO: ~X%]` se completan de punta a punta sin intervención humana.
+> Clientes actuales incluyen MasterViajes y Student Travel Center (viajes) y Mizar
+> (inmobiliaria).
+>
+> En los últimos `[DATO: N]` meses reconstruimos el negocio alrededor del modelo de
+> créditos: cada tipo de solicitud tiene un precio fijo en créditos, así que cada flujo que
+> llevamos a autonomía total se convierte directamente en margen en vez de en más horas.
+> Lo siguiente es `[DATO: 1 sola cosa concreta — ej. llevar la calificación de leads en la
+> vertical de viajes a autonomía total sin revisión humana]`.
 
-> `[CONFIRMAR: fechas reales de los 3 founders. Estructura sugerida:]`
-> Samuel: working on this since [año], full-time since [fecha]. Ernesto: since [año],
-> full-time since [fecha]. Sebastián: since [año], full-time since [fecha]. Before the
-> recurring model, we spent [X años] delivering RevOps implementations as projects —
-> that's where the 50+ projects and the conviction came from: implementations fail
-> without an operator, so we became the operator.
+> **EN (listo para pegar):**
+> We're in production, with paying customers and recurring revenue. Today we have
+> `[DATO: N]` customers on monthly retainers ($199–$1,200+/mo plus usage-based credits),
+> at `[DATO: $X]` MRR — up from `[DATO: $Y]` six months ago. Before the recurring model we
+> delivered 50+ implementation projects across 15+ industries at 98% customer satisfaction;
+> that customer base is what we're converting into recurring operations, and it's our
+> strongest demand signal.
+>
+> Four AI agents run inside real client operations today: they handle inbound leads on
+> WhatsApp, move deals through the CRM, run follow-up, and generate the reporting the
+> client sees. They process `[DATO: N operations/month]`, of which `[DATO: ~X%]` complete
+> end-to-end with no human touching them. Current customers include MasterViajes and
+> Student Travel Center (travel) and Mizar (real estate).
+>
+> Over the last `[DATO: N]` months we rebuilt the business around the credit model: every
+> request type has a fixed credit price, so every workflow we take to full autonomy turns
+> directly into margin instead of more hours. Next up is `[DATO: una sola cosa concreta]`.
 
-### What tech stack are you using, or planning to use? Include AI models and AI coding tools.
+`[NOTA: si el MRR aún es pequeño, ponerlo igual. YC financia trayectorias, no tamaños —
+"$3,200 MRR, up from $900 six months ago" es una respuesta fuerte. Un rango vago o un
+adjetivo en lugar del número es lo que sí penaliza.]`
 
-> **AI:** Anthropic Claude (Fable/Opus/Sonnet) powers our four production agents and our
-> internal request-routing system; Claude Code is our primary development environment —
-> most of our codebase is written with it. We also use [CONFIRMAR: ¿OpenAI/Gemini en algo?].
-> **Product/infra:** Next.js/React frontend, Supabase (Postgres) as core database,
-> [CONFIRMAR: ¿n8n / Make?] for workflow automation, WhatsApp Business API, Meta Ads API,
-> a white-labeled CRM layer (GoHighLevel) that we operate for clients while we replace it
-> piece by piece with our own stack, Metabase for client reporting, MCP servers connecting
-> our agents to client systems (calendar, email, CRM, ads).
+### 14. How long have each of you been working on this? How much of that has been full-time? Please explain.
 
-`[CONFIRMAR el stack exacto — YC lee esto con cuidado en 2026. La mención de GHL es honesta y está bien: "operamos herramientas existentes y las reemplazamos gradualmente" es narrativa fuerte, no débil.]`
+> **ES (borrador de trabajo):**
+> Samuel: en esto desde `[DATO: mes/año]`, tiempo completo desde `[DATO: mes/año]`.
+> Ernesto: desde `[DATO: mes/año]`, tiempo completo desde `[DATO: mes/año]`.
+> Sebastián: desde `[DATO: mes/año]`, tiempo completo desde que se creó la empresa.
+> Los tres estamos hoy 100% en Sixteam, sin otro trabajo ni consultoría paralela.
+>
+> Antes de Sixteam pasamos `[DATO: X años]` haciendo implementaciones de RevOps para PyMEs
+> — de ahí salieron los 50+ proyectos. Ahí aprendimos lo que hoy es la tesis de la empresa:
+> la implementación casi nunca es el problema; el sistema se muere seis meses después
+> porque nadie lo opera. Dejamos de vender implementaciones y empezamos a vender la
+> operación, y los mismos clientes se convirtieron a retainer mensual.
+
+> **EN (listo para pegar):**
+> Samuel: working on this since `[DATO: month/year]`, full-time since `[DATO: month/year]`.
+> Ernesto: since `[DATO: month/year]`, full-time since `[DATO: month/year]`.
+> Sebastián: since `[DATO: month/year]`, full-time since the company was formed. All three
+> of us are 100% on Sixteam today — no other jobs, no side consulting.
+>
+> Before Sixteam we spent `[DATO: X years]` delivering RevOps implementations for SMBs;
+> that's where the 50+ projects came from, and where we learned what is now the company's
+> thesis: the implementation is almost never the problem — the system dies six months later
+> because nobody operates it. We stopped selling implementations and started selling the
+> operation, and those same customers converted to monthly retainers.
+
+`[REGLA: no maquillar el "full-time". YC pregunta esto para medir compromiso real y lo
+cruza con la entrevista. Si alguno pasó a full-time hace poco, decirlo tal cual — es
+normal y creíble.]`
+
+### 15. What tech stack are you using, or planning to use, to build this product? Include AI models and AI coding tools you use.
+
+> **ES (borrador de trabajo):**
+> **Modelos de IA:** Anthropic Claude (Opus / Sonnet / Haiku, enrutados según complejidad de
+> la tarea) mueve nuestros cuatro agentes en producción y el sistema interno de enrutamiento
+> que decide qué agente — o qué especialista humano — toma cada solicitud entrante del
+> cliente. `[CONFIRMAR: ¿OpenAI o Gemini en algo? ¿transcripción? ¿embeddings? Si no, decir
+> "solo Claude" — es una respuesta limpia.]`
+>
+> **Herramientas de código con IA:** Claude Code es nuestro entorno principal de desarrollo —
+> la mayor parte del código está escrita con él, incluidos los agentes mismos. Lo corremos
+> con skills propias y servidores MCP conectados a nuestra infraestructura, así que la misma
+> herramienta que construye el producto también lo opera. `[CONFIRMAR: ¿Cursor / Codex / v0 /
+> Lovable también?]`
+>
+> **Capa de agentes:** servidores MCP conectan los agentes a los sistemas del cliente — CRM,
+> calendario, email, WhatsApp, cuentas publicitarias y nuestra base de reportería — para que
+> un agente lea y actúe sobre el estado real del cliente, no solo genere texto.
+>
+> **Producto e infraestructura:** frontend Next.js/React; Supabase (Postgres) como base de
+> datos principal `[CONFIRMAR: ¿auth y storage también? ¿edge functions?]`; WhatsApp Business
+> API como canal con el cliente final; Meta Ads API para las operaciones de pauta; Metabase
+> sobre Postgres para la reportería que ve el cliente; y una capa de CRM white-label
+> (GoHighLevel) que operamos por cuenta del cliente mientras la reemplazamos pieza por pieza
+> con infraestructura propia. `[CONFIRMAR: automatización de flujos — ¿n8n, Make, ambos, o
+> código propio? Hosting — ¿Vercel, VPS con Docker, Hostinger?]`
+>
+> Somos deliberadamente pragmáticos: operamos las herramientas que el cliente ya paga, y las
+> reemplazamos con infraestructura propia solo donde ser dueños de esa capa nos da palanca —
+> hoy eso es la orquestación de agentes, la medición de créditos y la reportería.
+
+> **EN (listo para pegar):**
+> **AI models:** Anthropic Claude (Opus / Sonnet / Haiku, routed by task complexity) powers
+> our four production agents and the internal request-routing system that decides which
+> agent — or which human specialist — takes each incoming client request.
+> `[CONFIRMAR: ¿se usa OpenAI o Gemini en algo? ¿Whisper/transcripción? ¿algún modelo de
+> embeddings? Si no, decir explícitamente "Claude only" — es una respuesta limpia.]`
+>
+> **AI coding tools:** Claude Code is our primary development environment — the majority of
+> our codebase is written with it, including the agents themselves. We run it with custom
+> skills and MCP servers wired to our own infrastructure, so the same tooling that builds
+> the product also operates it. `[CONFIRMAR: ¿Cursor / Codex / v0 / Lovable también?]`
+>
+> **Agent layer:** MCP servers connect our agents to client systems — CRM, calendar, email,
+> WhatsApp, ad accounts, and our reporting database — so an agent can read and act on real
+> client state rather than just generate text.
+>
+> **Product & infra:** Next.js/React frontend; Supabase (Postgres) as the core database
+> `[CONFIRMAR: ¿auth y storage también en Supabase? ¿edge functions?]`; WhatsApp Business
+> API for the customer-facing channel; Meta Ads API for paid-acquisition operations;
+> Metabase on Postgres for client-facing reporting; a white-labeled CRM layer (GoHighLevel)
+> that we operate on behalf of clients while we replace it piece by piece with our own
+> stack. `[CONFIRMAR: automatización de flujos — ¿n8n, Make, ambos, o código propio?
+> Hosting — ¿Vercel, VPS con Docker, Hostinger? Ambos datos importan aquí.]`
+>
+> We're deliberately pragmatic: we operate the tools our customers already pay for, and we
+> replace them with our own infrastructure only where owning the layer gives us leverage —
+> today that's the agent orchestration, the credit metering, and the reporting.
+
+`[POR QUÉ ESTÁ BIEN MENCIONAR GHL: "operamos herramientas existentes y las reemplazamos
+gradualmente donde nos da palanca" es narrativa de operador, no de debilidad. Esconderlo sí
+sería un riesgo — se nota en la demo.]`
+
+`[LO QUE SÍ HAY QUE EVITAR: una lista de logos sin explicar para qué sirve cada cosa. YC
+lee esta respuesta en 2026 para saber si construyes de verdad o si ensamblaste no-code.
+La frase que más pesa aquí es "the same tooling that builds the product also operates it".]`
+
+### 16. Are people using your product? → **Yes**
+
+### 17. Do you have revenue? → **Yes**
+
+### 18. If you are applying with the same idea as a previous batch, did anything change? If you applied with a different idea, why did you pivot and what did you learn from the last idea?
+
+> **ES (opción A — si nunca han aplicado a YC):**
+> Es nuestra primera aplicación a YC.
+>
+> **ES (opción B — si ya aplicaron antes):**
+> Aplicamos en `[DATO: batch]` con `[DATO: la idea anterior]`. Desde entonces `[DATO: qué
+> cambió — números, modelo de cobro, verticales, equipo]`. Lo que aprendimos es `[DATO: la
+> lección concreta]`.
+
+> **EN (opción A — si nunca han aplicado a YC):**
+> This is our first application to YC.
+
+> **EN (opción B — si ya aplicaron antes, adaptar):**
+> We applied in `[DATO: batch]` with `[DATO: la idea anterior]`. Since then
+> `[DATO: qué cambió — números, modelo de cobro, verticales, equipo]`. What we learned is
+> `[DATO: la lección concreta]`.
+
+`[CONFIRMAR cuál aplica. Si aplicaron antes, NO omitirlo: YC tiene el historial de
+aplicaciones y una aplicación previa no resta — lo que resta es no mencionarla y que la
+diferencia entre ambas no muestre progreso.]`
+
+### 19. If you have already participated or committed to participate in an incubator, "accelerator" or "pre-accelerator" program, please tell us about it.
+
+> **ES (opción A — si no hay ninguno, con transparencia sobre las postulaciones en curso):**
+> No hemos participado ni nos hemos comprometido con ninguna incubadora o aceleradora.
+> Tenemos aplicaciones abiertas a 500 Global y al Latitud Fellowship, pero sin compromiso ni
+> oferta de ninguno de los dos — YC es nuestra primera opción.
+>
+> **ES (opción B — solo si hubo algún programa previo):**
+> `[DATO: nombre del programa, año, duración, qué recibieron — dinero/equity/mentoría — y
+> qué salió de ahí.]`
+
+> **EN (opción A — si no hay ninguno, con transparencia sobre las postulaciones en curso):**
+> We haven't participated in or committed to any incubator or accelerator. We have open
+> applications to 500 Global and the Latitud Fellowship, but no commitment or offer from
+> either — YC is our first choice.
+
+> **EN (opción B — solo si hubo algún programa previo):**
+> `[DATO: nombre del programa, año, duración, qué recibieron — dinero/equity/mentoría — y
+> qué salió de ahí.]`
+
+`[RECOMENDACIÓN: usar la opción A completa, incluyendo la mención de 500 y Latitud.
+La pregunta dice "or committed to participate": postular no es comprometerse, así que
+técnicamente podrías omitirlo — pero mencionarlo cuesta cero, es verificable si más
+adelante entran a alguno, y "YC is our first choice" es exactamente la señal que quieren.
+Si prefieres no mencionarlo, la respuesta se queda en la primera oración y sigue siendo
+honesta.]`
 
 ### Optional: attach a coding agent session you're particularly proud of.
 
-**Recomendación: SÍ adjuntarlo.** Es pregunta experimental del batch Fall 2026 — pocos aplicantes lo harán bien. Opciones:
-1. En una sesión de Claude Code donde hayas construido algo real (un agente, el sistema de créditos, una integración), corre `/export` y guarda el `.md`.
-2. Ideal: una sesión donde Claude Code construye o depura uno de los agentes IA de producción — demuestra que el producto mismo se construye con agentes.
-
-### Are people using your product? → **Yes**
-
-### Do you have revenue? → **Yes**
-
-### If you are applying with the same idea as a previous batch...
-> `[CONFIRMAR: ¿han aplicado antes a YC? Si no:]` This is our first application.
-
-### If you have already participated in an incubator/accelerator...
-> `[CONFIRMAR: ¿algún programa previo? Si no:]` None.
+**Recomendación: SÍ adjuntarlo si el campo aparece.** (No está en el formulario verbatim que
+guardamos — verificar en el flujo real.) Es pregunta experimental del batch Fall 2026 y pocos
+aplicantes la harán bien. Opciones:
+1. En una sesión de Claude Code donde hayas construido algo real (un agente, el sistema de
+   créditos, una integración), corre `/export` y guarda el `.md`.
+2. Ideal: una sesión donde Claude Code construye o depura uno de los agentes IA de
+   producción — demuestra que el producto mismo se construye con agentes.
 
 ---
 
@@ -308,9 +476,9 @@ Versión si la respuesta es "SF después de YC":
 ## EQUITY
 
 ### Have you formed ANY legal entity yet?
-> `[CONFIRMAR: ¿SAS colombiana? ¿LLC/C-Corp? Detallar: nombre, país, y % de cada uno de los
-> 3 founders — Samuel, Ernesto Hernández y Sebastián Burgos (los 3 confirmados founders
-> formales con equity — falta el % exacto de cada uno).]`
+> `[CONFIRMAR: ¿SAS colombiana? ¿LLC/C-Corp? Detallar nombre y país de la entidad.]`
+> Equity confirmado (2026-07-31, mismo dato que en 500): Samuel Burgos 65%, Ernesto
+> Hernández 25%, Sebastián Burgos 10%. Sin inversionistas, advisors ni pool de empleados.
 
 ### Have you taken any investment yet?
 > `[CONFIRMAR — si no:]` No. Bootstrapped and revenue-funded to date.
@@ -343,12 +511,10 @@ Versión si la respuesta es "SF después de YC":
 ## CHECKLIST ANTES DE ENVIAR
 
 - [ ] Confirmar MRR y ponerlo en números — YC valora números concretos sobre adjetivos
-- [ ] Confirmar fechas exactas full-time de cada founder (nombres y roles ya confirmados)
-- [ ] % de equity exacto de cada uno de los 3 founders
-- [ ] Confirmar entidad legal y cap table (3 founders)
-- [ ] Grabar founder video (1 min, ambos, inglés)
+- [ ] Confirmar fechas exactas full-time de cada founder (nombres, roles y equity ya confirmados)
+- [ ] Confirmar entidad legal (tipo y país de incorporación — equity % ya confirmado)
+- [ ] Grabar founder video (1 min, los 3 founders, inglés)
 - [ ] Grabar demo (≤3 min) con workspace demo, sin datos de clientes
 - [ ] Exportar sesión de Claude Code (`/export`) para la pregunta experimental
-- [ ] Confirmar ciudad actual y decisión de ubicación post-YC
 - [ ] Verificar stack técnico exacto (modelos IA, automatización, CRM)
 - [ ] Revisar que ninguna respuesta prometa cifras de crecimiento garantizadas

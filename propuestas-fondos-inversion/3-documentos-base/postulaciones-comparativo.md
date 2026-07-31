@@ -27,8 +27,8 @@
 | Tamaño de mercado | (implícito en "how much could you make") | (no se pide explícito) | **TAM/SAM/SOM obligatorio** en "thesis" | ⚠️ Solo Latitud lo exige con fórmula — inputs (meta a 5 años, tamaño de segmento) pendientes de confirmar |
 | Tracción / ingresos | "How far along are you?" + Yes/No revenue | Ventas mes a mes (6 meses) + clientes totales + cash on hand | "What's your current stage?" (dropdown) | ⚠️ Los 3 necesitan el mismo dato duro: MRR real y clientes actuales — **un solo número que falta y bloquea las 3 postulaciones** |
 | Full-time / dedicación del equipo | "How long have each of you been working on this?" | "Quiénes están tiempo completo/medio tiempo" | "Are you full-time on this startup?" | ⚠️ Roles y LinkedIn de los 3 ya confirmados; falta solo fechas exactas de inicio/full-time |
-| Ubicación | "Where do you live now..." | "Ciudad(es) de operación" | "Where are you currently based?" | ⚠️ Mismo dato falta en los 3 |
-| Entidad legal / equity | "Have you formed ANY legal entity yet?" | "Describe a detalle los accionistas..." | (no se pregunta directamente) | ⚠️ Bloqueante compartido YC + 500: entidad, país, % exacto de cada uno de los 3 founders (los 3 son founders formales con equity, confirmado) |
+| Ubicación | "Where do you live now..." | "Ciudad(es) de operación" | "Where are you currently based?" | ✅ YC resuelto: Barranquilla, Colombia / San Francisco, USA. ⚠️ Falta confirmar en 500 y Latitud (mismo dato, reusar) |
+| Entidad legal / equity | "Have you formed ANY legal entity yet?" | "Describe a detalle los accionistas..." | (no se pregunta directamente) | ✅ % de equity confirmado: Samuel 65%, Ernesto 25%, Sebastián 10%, sin inversionistas. ⚠️ Falta solo tipo y país de la entidad legal |
 | Inversión previa / fundraising activo | "Have you taken any investment yet?" / "Are you currently fundraising?" | "¿Han recibido inversión?" | "Have you raised any external funding?" | ⚠️ Mismo dato, falta confirmar en los 3 (probablemente "No" en todos si es bootstrapped) |
 | Motivación personal / por qué esta idea | "Why did you pick this idea..." | (implícito, no explícito) | "Why are you the right person to build this?" + "What's the most impressive thing you've ever done?" | ✅ Redactado en YC y Latitud — reusar la misma narrativa de 8 años en RevOps |
 | Progreso reciente | (no se pregunta explícito) | "¿Hay algo adicional...?" (transparencia de obstáculos) | **"What have you done in the last 30 days?"** | ⚠️ Solo Latitud lo pide explícito y en tiempo real — necesita un hecho concreto y reciente, no reusar texto genérico |
@@ -41,22 +41,23 @@
 
 ## Bloqueantes que son compartidos entre las 3 postulaciones (resolver una vez, se propaga a todas)
 
-1. ~~Status de Sebastián~~ — **RESUELTO 2026-07-30: es founder formal, con equity, Director
-   Operativo, tiempo completo desde que se creó la empresa** (nombre completo: Sebastián
-   Burgos; LinkedIn confirmado). Igual que Ernesto Hernández (Gerente Comercial, LinkedIn
-   confirmado). Falta solo: % de equity exacto de cada uno y fecha de incorporación. Esto
-   significa que Sebastián **sí** necesita su propia versión de `postulacion-latitud.md`
-   (es per-founder) y **sí** entra en el video de founders y en accionistas de YC y 500.
+1. ~~Status de Sebastián~~ — **RESUELTO: founder formal, con equity, Director Operativo,
+   tiempo completo desde que se creó la empresa.** Sebastián Burgos y Ernesto Hernández
+   con LinkedIn confirmado. Necesita su propia versión de `postulacion-latitud.md` (es
+   per-founder) y entra en el video de founders.
 2. **Número duro de tracción** — MRR actual, clientes activos, ventas mes a mes de 6 meses,
-   cash on hand. Es el mismo dato pedido de formas distintas en las 3.
-3. **Entidad legal y cap table** — país de incorporación, tipo de entidad, % de cada founder.
-4. **Ciudad actual y decisión de ubicación** — mismo dato en los 3 formularios.
+   cash on hand. Es el mismo dato pedido de formas distintas en las 3. **Sigue pendiente.**
+3. ~~Entidad legal y cap table~~ — **RESUELTO el % de equity** (Samuel 65%, Ernesto 25%,
+   Sebastián 10%, sin inversionistas/advisors/pool). Falta solo tipo y país de la entidad
+   legal — mismo dato en YC y 500.
+4. ~~Ciudad actual y decisión de ubicación~~ — **RESUELTO para YC:** Barranquilla, Colombia
+   / San Francisco, USA. Reusar el mismo dato en 500 y Latitud.
 5. **¿Han recibido inversión / están levantando?** — mismo dato, probablemente "No" /
-   "Sí, en conversaciones" en los 3.
+   "Sí, en conversaciones" en los 3. **Sigue pendiente.**
 6. **La tensión "100% interno" (nota de 500) vs. "usamos asesores externos" (respuesta ya
    validada para YC)** — decidir una sola vez y aplicar la misma honestidad en los 3, no
    se puede decir una cosa en un formulario y la contraria en otro si algún fondo cruza
-   referencias.
+   referencias. **Sigue pendiente.**
 
 Resolviendo estos 6 puntos una sola vez con datos reales, las tres postulaciones quedan
 prácticamente listas para enviar.
