@@ -150,16 +150,22 @@ Guion sugerido (2 minutos, español, los 3 founders si es posible, sin producci�
 
 ### Describe el modelo de negocio de tu empresa, explicando cómo hace dinero
 
-> **ES (borrador):**
-> Cobramos un retainer mensual con un sistema de créditos por uso: Esencial ($199/mes, 60
-> créditos), Integral ($499/mes, 160 créditos) y Total (desde $1,200/mes, 400+ créditos
-> acumulables). Cada solicitud del cliente (una automatización, un cambio en el pipeline, un
-> dashboard, una integración) descuenta créditos según su complejidad — no cobramos por
-> asiento ni por hora. Los clientes entran con una necesidad puntual y expanden su plan
-> conforme confían en nosotros para operar más de su negocio (land & expand, sin equipo de
-> ventas dedicado). Este modelo nos alinea con la productividad de la IA: cuando nuestros
-> agentes se vuelven más eficientes, el margen se expande en lugar de destruirse, al
-> contrario del SaaS tradicional por asiento.
+> **ES:**
+> Cobramos un retainer mensual con un sistema de créditos por uso. Tres planes: Esencial
+> ($199/mes, 60 créditos), Integral ($499/mes, 160 créditos) y Total (desde $1,200/mes,
+> 400+ créditos acumulables).
+>
+> **Cómo funcionan los créditos:** cada solicitud del cliente tiene un costo fijo en créditos
+> según su complejidad — una automatización 10–20, una campaña de email 15–30, una integración
+> 20–40, un agente de IA conversacional 30–60. El cliente pide lo que necesita y consume de su
+> bolsa mensual; no cobramos por asiento, por hora ni por proyecto. Los servicios fuera del
+> alcance operativo (pauta, desarrollo a la medida, consultoría) se cotizan aparte.
+>
+> **Por qué este modelo:** los clientes entran en el plan más pequeño con una necesidad puntual
+> y expanden conforme confían en nosotros para operar más de su negocio (land & expand, sin
+> equipo de ventas dedicado). Y como cobramos por operación entregada y no por tiempo, cada
+> mejora en la eficiencia de nuestros agentes de IA expande el margen en lugar de destruir
+> ingresos — lo contrario del SaaS por asiento y de los modelos por hora.
 
 ### ¿Quiénes son tu competencia directa y/o indirecta? ¿Existe alguna solución similar en tu mercado o en otros mercados?
 
