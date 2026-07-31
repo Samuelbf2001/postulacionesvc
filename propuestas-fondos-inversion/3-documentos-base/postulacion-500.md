@@ -169,18 +169,34 @@ Guion sugerido (2 minutos, español, los 3 founders si es posible, sin producci�
 
 ### ¿Quiénes son tu competencia directa y/o indirecta? ¿Existe alguna solución similar en tu mercado o en otros mercados?
 
-> **ES (borrador):**
-> Tres grupos: (1) agencias y freelancers tradicionales, que implementan y se van — no
-> operan; (2) herramientas SaaS (HubSpot, GoHighLevel y sus miles de revendedores
-> white-label), que le entregan la herramienta al cliente y ahí termina su trabajo; (3)
-> startups emergentes de agentes de IA — en LatAm, Cifrato (contabilidad automatizada,
-> semilla en Bogotá) es el comparable más cercano, aunque enfocado en una sola función.
-> Lo que entendemos que ellos no: por cada $1 que las PyMEs gastan en software, gastan ~$6
-> en los servicios y la mano de obra para operarlo — el mercado real no es la herramienta,
-> es la capa de operación. Nuestro modelo de créditos evita la trampa del SaaS por asiento
-> (donde hacer al cliente más eficiente reduce tus ingresos), y a diferencia de una agencia,
-> cada flujo que automatizamos se vuelve capacidad instalada reutilizable para el siguiente
-> cliente — no vendemos horas, vendemos operación entregada por agentes.
+> **ES:**
+> Competimos con cinco alternativas, ninguna de las cuales opera la tecnología del cliente
+> de punta a punta:
+>
+> 1. **Agentes de IA nativos de las plataformas** (HubSpot, Salesforce, GoHighLevel y sus
+>    revendedores white-label): la herramienta trae su propio agente, pero alguien tiene que
+>    configurarlo, conectarlo al resto del stack y operarlo. Ese alguien no existe en nuestro
+>    cliente.
+> 2. **Agencias y consultoras de tecnología y automatización:** implementan y se van. Venden
+>    horas y proyectos, no operación continua, y su costo escala linealmente con su equipo.
+> 3. **Agentes generalistas de IA (Manus y similares):** técnicamente potentes, pero le
+>    devuelven el trabajo al cliente — siguen requiriendo que alguien defina qué construir,
+>    lo conecte a sus sistemas y responda por el resultado de negocio.
+> 4. **Freelancers:** dependencia de una sola persona, sin metodología, continuidad ni
+>    responsabilidad sobre la operación.
+> 5. **Equipo de TI interno:** la alternativa más cara y lenta de montar para una empresa de
+>    10 a 100 empleados, y la más difícil de mantener actualizada al ritmo de la IA.
+>
+> **Soluciones similares en otros mercados:** `[CONFIRMAR grafía exacta: "Pon foaster"]` y el
+> modelo de *agency automation* que está emergiendo en EE.UU. — empresas que automatizan la
+> entrega de servicios con IA en lugar de escalar headcount.
+>
+> **Nuestra diferencia:** por cada $1 que una empresa gasta en software, gasta ~$6 en los
+> servicios y la mano de obra para operarlo — el mercado real no es la herramienta, es la capa
+> de operación. Cobramos por operación entregada y no por asiento ni por hora, así que evitamos
+> la trampa del SaaS por asiento (donde hacer al cliente más eficiente reduce tus ingresos), y
+> cada flujo que automatizamos queda como capacidad instalada reutilizable para el siguiente
+> cliente. No vendemos horas: vendemos operación ejecutada por agentes.
 
 ---
 
