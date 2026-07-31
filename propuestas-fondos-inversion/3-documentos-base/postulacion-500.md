@@ -108,12 +108,13 @@ Guion sugerido (2 minutos, español, los 3 founders si es posible, sin producci�
 
 > **ES:**
 > Nuestro cliente es una empresa de servicios a nivel global, de 10 a 100 empleados, con un
-> equipo de tecnología en crecimiento y en proceso de transformación digital — con problemas
-> operativos causados por tecnología mal implementada o por falta de ella. Es quien decide y
-> paga por el servicio.
+> equipo de tecnología en crecimiento y en proceso de transformación digital, que enfrenta
+> problemas operativos derivados de una tecnología mal implementada o de la falta de ella. Es
+> la empresa, a través de su dirección, quien decide y paga por el servicio.
+>
 > Nuestro usuario es el equipo comercial y operativo de esa empresa, que interactúa a diario
-> con los agentes de IA y los especialistas de Sixteam para ejecutar la operación (leads,
-> pipeline, seguimiento, reportes). Cliente y usuario no siempre son la misma persona.
+> con nuestros agentes de IA y especialistas para ejecutar la operación comercial del negocio:
+> leads, pipeline, seguimiento y reportes. Cliente y usuario no siempre son la misma persona.
 
 ### ¿Cuál es el principal dolor que resuelves a tu cliente?
 
