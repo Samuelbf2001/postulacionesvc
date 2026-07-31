@@ -423,38 +423,49 @@ aplicantes la harán bien. Opciones:
 ### Why did you pick this idea to work on? Do you have domain expertise? How do you know people need this?
 
 > **ES (borrador de trabajo):**
-> No la elegimos — llegamos a ella después de años metidos en el problema. Samuel lleva 5
-> años como consultor e implementador de transformación de tecnología para áreas de revenue
-> operations; Ernesto lleva 3 años en ingeniería de procesos; Sebastián lleva 3 años
-> operando tecnología para empresas. Juntos entregamos 50+ implementaciones de tecnología
-> para PyMEs, y vimos el mismo fracaso repetirse una y otra vez: la implementación funciona,
-> el cliente queda feliz, y seis meses después el sistema es un cementerio de datos porque
-> nadie lo opera. Los datos de la industria lo confirman (Gartner: 50–70% de las
-> implementaciones de CRM no entregan resultados, principalmente por baja adopción).
+> Lo vimos de primera mano implementando tecnología y dando consultoría en automatizaciones
+> y transformación digital para decenas de empresas: necesitan un equipo que los apoye a
+> implementar, operar y darles dirección sobre su tecnología — no solo que se las venda o
+> se las instale. Nos hemos encontrado con clientes que tienen un CRM, una herramienta de
+> IA o una automatización que usan a menos del 10% de su capacidad, con todos sus procesos
+> todavía manuales, simplemente porque no tienen a nadie que los apoye en operar esa
+> tecnología día a día.
 >
-> La IA eliminó la primera barrera — la tecnología ya es barata. No eliminó la segunda:
-> implementarla, operarla, y lograr que produzca ingresos. Nuestros propios clientes
-> probaron la demanda: nos seguían pidiendo que nos quedáramos después de cada proyecto.
-> Por eso dejamos de vender implementaciones y empezamos a vender la operación — y los
-> clientes pasaron de proyectos puntuales a retainers mensuales. Esa conversión, desde
-> nuestra propia base de clientes, es nuestra señal de demanda más fuerte.
+> Samuel lleva 5 años como consultor e implementador de transformación de tecnología y
+> automatizaciones; Ernesto 3 años en ingeniería de procesos; Sebastián 3 años operando
+> tecnología para empresas. Juntos entregamos 50+ implementaciones de tecnología para
+> PyMEs — CRM, ERP, BI, automatizaciones, agentes de IA — y vimos ese mismo patrón
+> repetirse una y otra vez: la implementación se entrega, el cliente queda contento, y
+> meses después la herramienta es un cementerio de datos.
+>
+> La IA ya resolvió la primera barrera — la tecnología es barata. La segunda barrera —
+> implementarla, operarla y lograr que produzca resultado — sigue intacta, y es la que
+> nosotros resolvemos. La prueba más fuerte de que esto hace falta es nuestra propia base
+> de clientes: después de cada proyecto nos pedían que nos quedáramos, así que dejamos de
+> vender implementaciones puntuales y empezamos a vender la operación — y esos mismos
+> clientes se convirtieron en retainers mensuales.
 
 > **EN (listo para pegar):**
-> We didn't pick it — we backed into it after years inside the problem. Samuel spent 5
-> years as a consultant and implementer of technology transformation for revenue
-> operations; Ernesto spent 3 years in process engineering; Sebastián spent 3 years
-> operating technology for companies. Together we delivered 50+ technology implementations
-> for SMBs, and we watched the same failure repeat: the implementation succeeds, the
-> client is happy, and six months later the system is a data cemetery — because nobody
-> operates it. Industry data agrees (Gartner: 50–70% of CRM implementations fail to
-> deliver results, mostly from low adoption).
+> We saw it firsthand implementing technology and consulting on automations and digital
+> transformation for dozens of companies: they need a team to help them implement,
+> operate, and get direction on their technology — not just sell it or install it. We've
+> run into clients with a CRM, an AI tool, or an automation they use at less than 10% of
+> its capacity, with all their processes still manual, simply because they don't have
+> anyone supporting them in operating that technology day to day.
 >
-> AI removed the first barrier — the technology is now cheap. It did not remove the
-> second: implementing it, operating it, and making it produce revenue. Our own clients
-> proved the demand: they kept asking us to stay after every project. So we stopped
-> selling implementations and started selling the operation — and clients converted from
-> one-off projects to monthly retainers. That conversion, from our own project base, is
-> our strongest demand signal.
+> Samuel has 5 years as a consultant and implementer of technology and automation
+> transformation; Ernesto has 3 years in process engineering; Sebastián has 3 years
+> operating technology for companies. Together we delivered 50+ technology implementations
+> for SMBs — CRM, ERP, BI, automations, AI agents — and watched that same pattern repeat
+> over and over: the implementation gets delivered, the client is happy, and months later
+> the tool is a data cemetery.
+>
+> AI already solved the first barrier — technology is cheap. The second barrier —
+> implementing it, operating it, and making it produce results — is still there, and
+> that's the one we solve. The strongest proof this is needed is our own customer base:
+> after every project, clients asked us to stay, so we stopped selling one-off
+> implementations and started selling the operation — and those same clients converted
+> into monthly retainers.
 
 `[CONFIRMAR: si Sebastián tiene algo más específico que "3 años operando tecnología para
 empresas" que valga la pena agregar, dímelo — hoy es la mención más genérica de las tres.]`
