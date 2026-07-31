@@ -36,10 +36,8 @@ Guion sugerido (2 minutos, español, los 3 founders si es posible, sin producci�
 
 ### Por favor describe quiénes del equipo fundador están de tiempo completo y quiénes están de medio tiempo
 > Samuel Burgos (CEO / Producto y Tecnología) — tiempo completo. https://www.linkedin.com/in/saburgosf/
-> Ernesto Hernández (Director de Procesos / Comercial) — `[CONFIRMAR: tiempo completo o medio tiempo, LinkedIn]`
-> Sebastián `[CONFIRMAR: apellido]` (Líder de Operación) — `[CONFIRMAR: tiempo completo o medio tiempo, LinkedIn, rol exacto y desde cuándo]`
-
-`[BLOQUEANTE: falta el mismo dato que en YC — definir si Sebastián es founder formal (con equity) y su LinkedIn/rol exacto. Sin esto no se puede completar esta pregunta ni la de accionistas más abajo.]`
+> Ernesto Hernández (Gerente Comercial) — `[CONFIRMAR: tiempo completo o medio tiempo]`. https://www.linkedin.com/in/ernestojhernandez/
+> Sebastián Burgos (Director Operativo) — tiempo completo, founder con equity, en el equipo desde que se creó la empresa. https://www.linkedin.com/in/sebasti%C3%A1n-burgos-ia-automations/
 
 ---
 
