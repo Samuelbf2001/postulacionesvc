@@ -281,8 +281,8 @@ Guion sugerido (2 minutos, español, los 3 founders si es posible, sin producci�
 
 ## CHECKLIST ANTES DE ENVIAR (500)
 
-- [ ] % de equity de Sebastián Burgos (ya confirmados: nombre, rol, LinkedIn, tiempo completo)
-- [ ] Confirmar redes sociales, ciudad, año de incorporación, subsector, # empleados
+- [ ] % de equity de cada founder (ya confirmados: nombres, roles, LinkedIn, tiempo completo)
+- [ ] Confirmar ciudad, año de incorporación, subsector, # empleados (redes sociales ya confirmadas)
 - [ ] Confirmar si han recibido inversión y detalle de accionistas/cap table
 - [ ] Confirmar GTM real de 6 meses, roadmap real de 4 meses
 - [ ] Elegir y confirmar valor actual del North Star Metric
