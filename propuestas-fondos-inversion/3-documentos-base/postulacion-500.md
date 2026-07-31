@@ -36,7 +36,7 @@ Guion sugerido (2 minutos, español, los 3 founders si es posible, sin producci�
 
 ### Por favor describe quiénes del equipo fundador están de tiempo completo y quiénes están de medio tiempo
 > Samuel Burgos (CEO / Producto y Tecnología) — tiempo completo. https://www.linkedin.com/in/saburgosf/
-> Ernesto Hernández (Gerente Comercial) — `[CONFIRMAR: tiempo completo o medio tiempo]`. https://www.linkedin.com/in/ernestojhernandez/
+> Ernesto Hernández (Gerente Comercial) — tiempo completo. https://www.linkedin.com/in/ernestojhernandez/
 > Sebastián Burgos (Director Operativo) — tiempo completo, founder con equity, en el equipo desde que se creó la empresa. https://www.linkedin.com/in/sebasti%C3%A1n-burgos-ia-automations/
 
 ---
@@ -50,9 +50,10 @@ Guion sugerido (2 minutos, español, los 3 founders si es posible, sin producci�
 > https://sixteam.pro/
 
 ### Redes sociales
-> LinkedIn: `[CONFIRMAR URL]`
-> Facebook: `[CONFIRMAR URL, si existe]`
-> Twitter/X: `[CONFIRMAR URL, si existe]`
+> LinkedIn: https://www.linkedin.com/company/sixteam-pro/
+> Instagram: https://www.instagram.com/sixteampro/
+> Facebook: no aplica / no existe
+> Twitter/X: no aplica / no existe
 
 ### Descripción de la empresa en una frase "One-liner"
 
