@@ -118,13 +118,12 @@ Guion sugerido (2 minutos, español, los 3 founders si es posible, sin producci�
 
 ### ¿Cuál es el principal dolor que resuelves a tu cliente?
 
-> **ES (borrador):**
-> La tecnología ya dejó de ser cara — cualquier negocio puede pagar un CRM, un chatbot o una
-> automatización por pocos dólares al mes. El dolor real es que no saben implementarla para
-> su realidad, no tienen tiempo de operarla día a día, y no tienen el criterio para decidir
-> qué ajustar cuando los números no cierran. El resultado: leads que se pierden, seguimientos
-> que no pasan, y herramientas caras que terminan como "cementerios de datos" sin nadie
-> operándolas.
+> **ES:**
+> La tecnología ya dejó de ser cara — hoy cualquier negocio puede acceder a soluciones de IA
+> por pocos dólares al mes. El dolor real es que no saben qué construir para su realidad, no
+> tienen el criterio para diseñarlo bien, ni el tiempo para operarlo día a día y ajustarlo
+> cuando los números no cierran. El resultado: leads que se pierden, seguimientos que no
+> pasan, y tecnología cara que termina como "cementerio de datos" sin nadie operándola.
 
 ### ¿Cuál es la estrategia comercial y de marketing (go-to-market) para los próximos 6 meses?
 
