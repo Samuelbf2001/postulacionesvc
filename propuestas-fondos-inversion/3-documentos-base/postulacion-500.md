@@ -129,16 +129,24 @@ Guion sugerido (2 minutos, español, los 3 founders si es posible, sin producci�
 
 ### ¿Cuál es la estrategia comercial y de marketing (go-to-market) para los próximos 6 meses?
 
-> `[CONFIRMAR: plan real de GTM de los próximos 6 meses. Borrador con la mecánica actual —
-> ajustar cifras/metas:]`
-> Nuestro embudo de entrada es el "Radar" — un diagnóstico gratuito de 48 horas que mapea
-> dónde el cliente está perdiendo dinero en su operación comercial. Esto elimina la fricción
-> de venta consultiva tradicional (sin propuestas de 30 páginas). De ahí pasan a una llamada
-> de alineación de 30 minutos y entran directo a un plan mensual (Esencial/Integral/Total).
-> Para los próximos 6 meses: `[CONFIRMAR — ej. "duplicar clientes en la vertical ancla de
-> viajes vía referidos + 2 partnerships con asociaciones del sector; profundizar en la
-> vertical de servicios con cita; probar canal de outbound frío en inglés hacia SMBs de
-> EE.UU."]`
+> **ES:**
+> Nuestro foco para los próximos 6 meses es la tercerización de la operación tecnológica en
+> empresas de Estados Unidos.
+>
+> **Adquisición:** contacto frío en tres canales — email, llamada y pauta — que son también
+> el respaldo de nuestra propia operación de marketing y comercial. Sobre cada cliente
+> cerrado construimos una cadena de referidos, hoy nuestro canal de mayor conversión.
+>
+> **Marketing:** estrategias orgánicas apalancadas en el interés actual por la IA, con
+> productos gancho de quick wins tecnológicos — prompts y conectores — que entregan valor
+> inmediato, demuestran capacidad técnica y abren la conversación hacia operar la tecnología
+> completa del cliente.
+>
+> **Conversión:** del gancho pasan al "Radar", un diagnóstico de 48 horas que mapea dónde la
+> empresa está perdiendo dinero en su operación; de ahí a una llamada de alineación de 30
+> minutos y directo a un plan mensual (Esencial/Integral/Total), sin propuestas de 30 páginas.
+
+`[CONFIRMAR: metas numéricas de los 6 meses — 500 valora números concretos (ej. "de X a Y clientes", "de $X a $Y MRR", "% de ingresos desde EE.UU."). Sin al menos una meta dura, la respuesta se lee como intención y no como plan.]`
 
 ### Describe el modelo de negocio de tu empresa, explicando cómo hace dinero
 
