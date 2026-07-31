@@ -241,7 +241,9 @@ Guion sugerido (2 minutos, español, los 3 founders si es posible, sin producci�
 > 1. `[Ej: llevar el agente de WhatsApp (Echo) a autonomía completa en calificación de leads sin revisión humana en la vertical de viajes]`
 > 2. `[Ej: dashboard de cliente self-service para ver consumo de créditos y reportes en tiempo real]`
 > 3. `[Ej: expandir el agente de CRM/Pipeline (Delta) a la vertical de inmobiliarias]`
-> 4. `[Ej: reemplazar la capa de GoHighLevel white-label por infraestructura propia en al menos un flujo crítico]`
+> 4. `[Ej: ampliar la capa de integración vía MCP/API a más sistemas del cliente (ERP, BI) —
+>    OJO: ya NO va "reemplazar GoHighLevel por infraestructura propia"; contradice la postura
+>    confirmada el 2026-07-30 de no reconstruir la rueda e integrar lo que ya existe.]`
 
 ### ¿Cómo se ha desarrollado la tecnología? Indica si el desarrollo fue realizado internamente, externalizado o en colaboración con terceros no fundadores.
 
@@ -262,15 +264,31 @@ Guion sugerido (2 minutos, español, los 3 founders si es posible, sin producci�
 
 ### ¿Qué tecnología utilizas para el desarrollo de tu producto? Describe el tech stack a detalle.
 
-> **ES (traducido del borrador de YC, mismos pendientes):**
-> IA: Anthropic Claude (Fable/Opus/Sonnet) para los cuatro agentes en producción y el
-> sistema interno de enrutamiento de solicitudes; Claude Code como entorno principal de
-> desarrollo. `[CONFIRMAR: ¿uso de OpenAI/Gemini en algo?]`. Producto/infraestructura:
-> Next.js/React, Supabase (Postgres) como base de datos principal, `[CONFIRMAR: ¿n8n/Make?]`
-> para automatización de flujos, WhatsApp Business API, Meta Ads API, una capa de CRM
-> white-label (GoHighLevel) que operamos para clientes mientras la reemplazamos por
-> infraestructura propia, Metabase para reportería de cliente, servidores MCP conectando
-> los agentes a los sistemas del cliente (calendario, email, CRM, pauta).
+> **ES (alineado con la respuesta 15 de YC — confirmado por Samuel 2026-07-30):**
+> **Modelos de IA:** no trabajamos con un solo modelo. Usamos modelos distintos según la
+> tarea, optimizando calidad contra costo: Claude para el trabajo de razonamiento y para el
+> trabajo diario del equipo, y modelos pequeños de bajo costo para tareas acotadas y de alto
+> volumen. Poder cambiar de modelo por tipo de tarea es parte del diseño: el costo por
+> operación baja cada vez que sale un modelo mejor o más barato.
+>
+> **Desarrollo:** Claude Code es el entorno principal — la mayor parte del producto y de los
+> agentes está construida ahí, con skills propias y servidores MCP conectados a nuestra
+> infraestructura.
+>
+> **Arquitectura:** todo montado sobre SDKs de desarrollo de agentes, con los agentes
+> intercomunicados — uno por cada tipo de acción de la operación: análisis de datos, pauta
+> digital, CRM, desempeño del equipo comercial y gestión de proyectos. Encima hay una interfaz
+> de control simple, pero la mayor parte de la interacción es conversacional con los agentes.
+>
+> **Integración:** es la parte más importante de la apuesta técnica. Nos conectamos vía MCP y
+> APIs a los sistemas donde ya vive la operación del cliente — CRM, ERP, BI, gestores de
+> operación — y operamos directamente sobre la interfaz cuando no hay API. No reconstruimos
+> la rueda: la ventaja no está en reescribir un CRM, está en orquestar los que ya existen.
+>
+> **Infraestructura:** todo en la nube.
+>
+> Lo que sí construimos como propio es la capa que orquesta a los agentes, los conecta entre
+> sí y con los sistemas del cliente, mide el consumo y produce la reportería.
 
 ---
 

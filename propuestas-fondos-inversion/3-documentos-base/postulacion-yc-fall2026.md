@@ -258,29 +258,32 @@ que se quitó el "80/20 agentes/humanos" el 2026-07-25.]`
 
 ### 14. How long have each of you been working on this? How much of that has been full-time? Please explain.
 
-> **ES (borrador de trabajo):**
-> Samuel: en esto desde `[DATO: mes/año]`, tiempo completo desde `[DATO: mes/año]`.
-> Ernesto: desde `[DATO: mes/año]`, tiempo completo desde `[DATO: mes/año]`.
-> Sebastián: desde `[DATO: mes/año]`, tiempo completo desde que se creó la empresa.
-> Los tres estamos hoy 100% en Sixteam, sin otro trabajo ni consultoría paralela.
+> **ES (FINAL — fechas confirmadas por Samuel 2026-07-30):**
+> Los tres socios estamos en esto desde enero de 2025, y a tiempo completo desde junio de
+> 2025: 18 meses trabajando en la empresa, 13 de ellos con dedicación exclusiva. Ninguno
+> tiene otro trabajo en paralelo.
 >
-> Antes de Sixteam pasamos `[DATO: X años]` haciendo implementaciones de RevOps para PyMEs
-> — de ahí salieron los 50+ proyectos. Ahí aprendimos lo que hoy es la tesis de la empresa:
-> la implementación casi nunca es el problema; el sistema se muere seis meses después
-> porque nadie lo opera. Dejamos de vender implementaciones y empezamos a vender la
-> operación, y los mismos clientes se convirtieron a retainer mensual.
+> Llegamos con años de experiencia previa en el mismo problema desde tres lados distintos:
+> implementación de tecnología, ingeniería de procesos y operación de tecnología dentro de
+> empresas. Los primeros meses los dedicamos a entregar implementaciones por proyecto, y fue
+> ahí donde confirmamos que lo que el cliente necesita es un operador permanente — por eso
+> movimos el negocio al modelo de operación recurrente.
 
-> **EN (listo para pegar):**
-> Samuel: working on this since `[DATO: month/year]`, full-time since `[DATO: month/year]`.
-> Ernesto: since `[DATO: month/year]`, full-time since `[DATO: month/year]`.
-> Sebastián: since `[DATO: month/year]`, full-time since the company was formed. All three
-> of us are 100% on Sixteam today — no other jobs, no side consulting.
+> **EN (FINAL — listo para pegar en el formulario):**
+> All three of us have been working on this since January 2025, and full-time since June
+> 2025: 18 months on the company, 13 of them full-time. None of us has another job on the
+> side.
 >
-> Before Sixteam we spent `[DATO: X years]` delivering RevOps implementations for SMBs;
-> that's where the 50+ projects came from, and where we learned what is now the company's
-> thesis: the implementation is almost never the problem — the system dies six months later
-> because nobody operates it. We stopped selling implementations and started selling the
-> operation, and those same customers converted to monthly retainers.
+> We came in with years of prior experience on the same problem from three different
+> angles: technology implementation, process engineering, and operating technology inside
+> companies. We spent the first months delivering project-based implementations, and that's
+> where we confirmed what the client actually needs is a permanent operator — which is why
+> we moved the business to a recurring operations model.
+
+`[NO REPETIR LA HISTORIA DE ORIGEN AQUÍ: el relato completo (clientes usando su CRM al 10%,
+el cementerio de datos, los clientes pidiendo que nos quedáramos) ya está en la pregunta 20
+"Why did you pick this idea". Esta respuesta se queda corta y factual — fechas y dedicación.
+Repetirla resta.]`
 
 `[REGLA: no maquillar el "full-time". YC pregunta esto para medir compromiso real y lo
 cruza con la entrevista. Si alguno pasó a full-time hace poco, decirlo tal cual — es
@@ -288,70 +291,52 @@ normal y creíble.]`
 
 ### 15. What tech stack are you using, or planning to use, to build this product? Include AI models and AI coding tools you use.
 
-> **ES (borrador de trabajo):**
-> **Modelos de IA:** Anthropic Claude (Opus / Sonnet / Haiku, enrutados según complejidad de
-> la tarea) mueve nuestros cuatro agentes en producción y el sistema interno de enrutamiento
-> que decide qué agente — o qué especialista humano — toma cada solicitud entrante del
-> cliente. `[CONFIRMAR: ¿OpenAI o Gemini en algo? ¿transcripción? ¿embeddings? Si no, decir
-> "solo Claude" — es una respuesta limpia.]`
->
-> **Herramientas de código con IA:** Claude Code es nuestro entorno principal de desarrollo —
-> la mayor parte del código está escrita con él, incluidos los agentes mismos. Lo corremos
-> con skills propias y servidores MCP conectados a nuestra infraestructura, así que la misma
-> herramienta que construye el producto también lo opera. `[CONFIRMAR: ¿Cursor / Codex / v0 /
-> Lovable también?]`
->
-> **Capa de agentes:** servidores MCP conectan los agentes a los sistemas del cliente — CRM,
-> calendario, email, WhatsApp, cuentas publicitarias y nuestra base de reportería — para que
-> un agente lea y actúe sobre el estado real del cliente, no solo genere texto.
->
-> **Producto e infraestructura:** frontend Next.js/React; Supabase (Postgres) como base de
-> datos principal `[CONFIRMAR: ¿auth y storage también? ¿edge functions?]`; WhatsApp Business
-> API como canal con el cliente final; Meta Ads API para las operaciones de pauta; Metabase
-> sobre Postgres para la reportería que ve el cliente; y una capa de CRM white-label
-> (GoHighLevel) que operamos por cuenta del cliente mientras la reemplazamos pieza por pieza
-> con infraestructura propia. `[CONFIRMAR: automatización de flujos — ¿n8n, Make, ambos, o
-> código propio? Hosting — ¿Vercel, VPS con Docker, Hostinger?]`
->
-> Somos deliberadamente pragmáticos: operamos las herramientas que el cliente ya paga, y las
-> reemplazamos con infraestructura propia solo donde ser dueños de esa capa nos da palanca —
-> hoy eso es la orquestación de agentes, la medición de créditos y la reportería.
+> **ES (FINAL — un solo párrafo, confirmado por Samuel 2026-07-30):**
+> No nos casamos con un solo modelo: usamos modelos distintos según la tarea buscando la
+> mejor relación calidad/precio — Claude para el razonamiento y para el trabajo diario del
+> equipo, y modelos pequeños de bajo costo para tareas acotadas de alto volumen — así que el
+> costo por operación baja cada vez que sale un modelo mejor o más barato. Desarrollamos con
+> Claude Code, donde está construida la mayor parte del producto y de los agentes, con skills
+> propias y servidores MCP: la misma herramienta con la que construimos es la que opera. Todo
+> está montado sobre SDKs de desarrollo de agentes intercomunicados entre sí, uno por cada
+> tipo de acción de la operación — análisis de datos, pauta digital, CRM, desempeño del
+> equipo comercial y gestión de proyectos — con una interfaz de control simple encima, aunque
+> la mayor parte de la interacción es conversacional. Nuestra apuesta técnica central es la
+> integración: nos conectamos vía MCP y APIs a los sistemas donde ya vive la operación del
+> cliente (CRM, ERP, BI, gestores de operación) y operamos la interfaz directamente cuando no
+> hay API. No reconstruimos la rueda: lo propio es la capa que orquesta los agentes, los
+> conecta y produce la reportería. Todo corre en la nube.
 
-> **EN (listo para pegar):**
-> **AI models:** Anthropic Claude (Opus / Sonnet / Haiku, routed by task complexity) powers
-> our four production agents and the internal request-routing system that decides which
-> agent — or which human specialist — takes each incoming client request.
-> `[CONFIRMAR: ¿se usa OpenAI o Gemini en algo? ¿Whisper/transcripción? ¿algún modelo de
-> embeddings? Si no, decir explícitamente "Claude only" — es una respuesta limpia.]`
->
-> **AI coding tools:** Claude Code is our primary development environment — the majority of
-> our codebase is written with it, including the agents themselves. We run it with custom
-> skills and MCP servers wired to our own infrastructure, so the same tooling that builds
-> the product also operates it. `[CONFIRMAR: ¿Cursor / Codex / v0 / Lovable también?]`
->
-> **Agent layer:** MCP servers connect our agents to client systems — CRM, calendar, email,
-> WhatsApp, ad accounts, and our reporting database — so an agent can read and act on real
-> client state rather than just generate text.
->
-> **Product & infra:** Next.js/React frontend; Supabase (Postgres) as the core database
-> `[CONFIRMAR: ¿auth y storage también en Supabase? ¿edge functions?]`; WhatsApp Business
-> API for the customer-facing channel; Meta Ads API for paid-acquisition operations;
-> Metabase on Postgres for client-facing reporting; a white-labeled CRM layer (GoHighLevel)
-> that we operate on behalf of clients while we replace it piece by piece with our own
-> stack. `[CONFIRMAR: automatización de flujos — ¿n8n, Make, ambos, o código propio?
-> Hosting — ¿Vercel, VPS con Docker, Hostinger? Ambos datos importan aquí.]`
->
-> We're deliberately pragmatic: we operate the tools our customers already pay for, and we
-> replace them with our own infrastructure only where owning the layer gives us leverage —
-> today that's the agent orchestration, the credit metering, and the reporting.
+> **EN (FINAL — listo para pegar en el formulario):**
+> We're not locked into a single model: we use different models per task to get the best
+> quality-to-cost ratio — Claude for reasoning work and for the team's day-to-day work, and
+> small, low-cost models for narrow, high-volume tasks — so our cost per operation drops
+> every time a better or cheaper model ships. We develop with Claude Code, where most of the
+> product and the agents are built, using custom skills and MCP servers: the same tooling we
+> build with is the tooling that operates. Everything runs on agent-development SDKs with the
+> agents intercommunicating, one per type of action in the operation — data analysis, paid
+> ads, CRM, sales-team performance, and project management — with a simple control interface
+> on top, though most of the interaction is conversational. Our core technical bet is
+> integration: we connect through MCP and APIs to the systems where the client's operation
+> already lives (CRM, ERP, BI, operations tools), and operate the interface directly where
+> there's no API. We're not rebuilding the wheel: what we own is the layer that orchestrates
+> the agents, wires them together, and produces the reporting. It all runs in the cloud.
 
-`[POR QUÉ ESTÁ BIEN MENCIONAR GHL: "operamos herramientas existentes y las reemplazamos
-gradualmente donde nos da palanca" es narrativa de operador, no de debilidad. Esconderlo sí
-sería un riesgo — se nota en la demo.]`
+`[CONFIRMADO 2026-07-30 (respuestas de Samuel): multi-modelo por calidad/precio; SLMs de
+bajo costo para tareas específicas; agentes propios sobre SDKs en la nube; integración con
+herramientas del cliente (CRM, ERP, BI, gestores de operación) vía API o directamente en la
+UI; hosting en la nube, sin detalle relevante. PENDIENTE: si además de Claude Code se usa
+otra herramienta de código con IA (la respuesta quedó en "Other" sin detalle).]`
+
+`[POR QUÉ SIRVE DECIR "operamos la UI cuando no hay API": es honesto y además explica el 40%
+humano de la pregunta 13. No lo escondas — es justo el trabajo que los agentes van a
+absorber, y por eso el 60/40 se mueve.]`
 
 `[LO QUE SÍ HAY QUE EVITAR: una lista de logos sin explicar para qué sirve cada cosa. YC
 lee esta respuesta en 2026 para saber si construyes de verdad o si ensamblaste no-code.
-La frase que más pesa aquí es "the same tooling that builds the product also operates it".]`
+Las dos frases que más pesan: "the same tooling we build the product with is the tooling
+that then operates it" y el argumento de que el costo por operación baja con cada modelo
+nuevo.]`
 
 ### 16. Are people using your product? → **Yes**
 
