@@ -167,13 +167,12 @@ Guion sugerido (2 minutos, español, los 3 founders si es posible, sin producci�
 > mejora en la eficiencia de nuestros agentes de IA expande el margen en lugar de destruir
 > ingresos — lo contrario del SaaS por asiento y de los modelos por hora.
 >
-> **Hacia dónde va:** la siguiente línea de ingreso es alquilar agentes — el cliente paga un
-> valor fijo mensual por tener un agente operando dentro de su negocio. Empezamos por los más
-> estandarizables (servicio al cliente y atención de leads B2C de alto volumen) y subimos hacia
-> roles de mayor valor, como un analista de datos. Es la misma operación, productizada al punto
-> de poder desplegarse sin construirla desde cero cada vez: el ingreso se vuelve recurrente por
-> agente desplegado y el margen crece con el volumen que cada agente absorbe sin que cambie el
-> precio.
+> **Hacia dónde va:** la siguiente línea de ingreso es alquilar agentes — el cliente paga una
+> tarifa fija mensual por cada agente que nosotros desplegamos y operamos dentro de su negocio.
+> Empezamos por los más acotados y de mayor volumen (servicio al cliente y atención masiva de
+> leads B2C) y subimos hacia roles de mayor valor, como un analista de datos. Ahí el ingreso se
+> vuelve recurrente por agente desplegado y el margen crece con el volumen que cada agente
+> absorbe sin que cambie el precio.
 
 ### ¿Quiénes son tu competencia directa y/o indirecta? ¿Existe alguna solución similar en tu mercado o en otros mercados?
 
@@ -242,16 +241,23 @@ Guion sugerido (2 minutos, español, los 3 founders si es posible, sin producci�
 > - **Reportería propia:** el cliente ve qué se ejecutó, qué resultado produjo y cuánto consumió.
 >
 > **Hacia dónde va el producto:** además del servicio de operación, vamos a ofrecer agentes en
-> renta — el cliente paga una tarifa fija mensual por la operación de un agente específico.
-> Empezaremos por los más acotados y de mayor volumen: servicio al cliente y atención masiva de
-> leads B2C. Es el paso natural del modelo: cada operación que llevamos a autonomía end-to-end
-> deja de necesitar especialista y puede venderse sola, a precio fijo y con margen de software.
+> renta — el cliente paga una tarifa fija mensual por la operación de un agente específico que
+> nosotros desplegamos y operamos. Empezaremos por los más acotados y de mayor volumen
+> (servicio al cliente y atención masiva de leads B2C) y subiremos hacia roles de mayor valor,
+> como un analista de datos. Es el paso natural del modelo: cada operación que llevamos a
+> autonomía end-to-end deja de necesitar especialista y puede venderse sola, a precio fijo y
+> con margen de software.
 
 `[IDEA REGISTRADA 2026-07-31 (conversación de founders): agentes en renta a tarifa fija por
-agente, empezando por servicio al cliente y atención masiva de leads B2C. Impacta también:
-la pregunta de modelo de negocio de 500, la de "How do or will you make money" de YC, y el
-roadmap de 4 meses de 500 — revisar que las tres cuenten la misma evolución. PENDIENTE:
-decidir si esa línea se menciona ya en YC o se guarda para la entrevista.]`
+agente, empezando por servicio al cliente y atención masiva de leads B2C, subiendo hacia
+roles de mayor valor como analista de datos.]`
+`[RESUELTO 2026-07-31: la línea YA se menciona en YC, en "How do or will you make money" —
+no se guardó para la entrevista. Las tres versiones (modelo de negocio de 500, producto de
+500, y dinero de YC) están alineadas y todas dicen explícitamente que NOSOTROS desplegamos y
+operamos el agente. Ese "nosotros" es importante: en la pregunta de YC de "otras ideas que
+consideraron" está listada la versión self-serve (el cliente lo despliega solo, sin capa de
+servicio) como alternativa distinta — si aquí se borra el "que nosotros desplegamos y
+operamos", la idea principal y la alternativa se leen iguales.]`
 
 ### ¿Cuál es tu ventaja competitiva?
 

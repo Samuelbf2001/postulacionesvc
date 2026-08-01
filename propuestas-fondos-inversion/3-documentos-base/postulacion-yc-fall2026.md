@@ -568,10 +568,10 @@ así en el formulario (guardar el término para la entrevista). La reemplacé po
 > operación absorbemos y el margen se expande conforme nuestros agentes ejecutan más sin
 > intervención humana.
 >
-> La siguiente línea es alquilar agentes: un valor fijo mensual por cada agente operando
-> dentro del negocio del cliente, empezando por los más estandarizables — servicio al
-> cliente y atención de leads B2C de alto volumen — y subiendo hacia roles de mayor valor
-> como un analista de datos. Ahí el ingreso se vuelve recurrente por agente desplegado y el
+> La siguiente línea es alquilar agentes: un valor fijo mensual por cada agente que
+> desplegamos y operamos dentro del negocio del cliente, empezando por los más
+> estandarizables — servicio al cliente y atención de leads B2C de alto volumen — y
+> subiendo hacia roles de mayor valor como un analista de datos. Ahí el ingreso se vuelve recurrente por agente desplegado y el
 > margen crece con el volumen que absorbe sin que cambie el precio. Por eso el techo por
 > cliente no es el precio del plan sino cuánta de su operación terminamos operando — y el
 > presupuesto al que apuntamos no es el de software, sino el que las empresas gastan en
@@ -587,9 +587,10 @@ así en el formulario (guardar el término para la entrevista). La reemplacé po
 > operation we absorb and our margin expands as our agents execute more without human
 > intervention.
 >
-> The next line is renting agents: a fixed monthly price per agent running inside the
-> client's business, starting with the most standardizable ones — customer service and
-> high-volume B2C lead handling — and moving up to higher-value roles like a data analyst.
+> The next line is renting agents: a fixed monthly price per agent we deploy and operate
+> inside the client's business, starting with the most standardizable ones — customer
+> service and high-volume B2C lead handling — and moving up to higher-value roles like a
+> data analyst.
 > There revenue becomes recurring per agent deployed and margin grows with the volume it
 > absorbs at an unchanged price. That's why the ceiling per customer isn't the plan price
 > but how much of their operation we end up running — and the budget we're addressing
