@@ -559,59 +559,42 @@ así en el formulario (guardar el término para la entrevista). La reemplacé po
 ### How do or will you make money? How much could you make?
 
 > **ES (borrador de trabajo):**
-> Cobramos una suscripción base mensual más créditos por operación. Cada solicitud consume
-> créditos: las operaciones que ya productizamos tienen un costo fijo, y las que requieren
-> más criterio o alcance se cotizan en créditos variables según su complejidad. Cuando el
-> cliente consume su bolsa mensual, compra créditos adicionales sobre la suscripción.
+> Cobramos una suscripción base mensual más créditos por operación: las operaciones que ya
+> productizamos tienen un costo fijo en créditos y las que requieren más criterio o alcance
+> se cotizan según su complejidad; cuando el cliente consume su bolsa, compra créditos
+> adicionales. Eso nos da la parte buena del SaaS — ingreso recurrente y predecible — sin
+> su techo: el SaaS por asiento queda limitado por la nómina del cliente y se contrae justo
+> cuando la IA lo hace más eficiente, mientras que nuestro ingreso crece con cuánta
+> operación absorbemos y el margen se expande conforme nuestros agentes ejecutan más sin
+> intervención humana.
 >
-> Esto nos da la parte buena del SaaS — ingreso recurrente y predecible — sin su techo. El
-> SaaS por asiento cobra por cuántas personas usan la herramienta, así que su ingreso queda
-> limitado por la nómina del cliente y se contrae justo cuando la IA lo hace más eficiente.
-> Nosotros cobramos por operación entregada: nuestro ingreso crece con cuánta operación del
-> cliente absorbemos, no con cuánta gente tiene. Y como el costo de entregar cada operación
-> baja conforme nuestros agentes ejecutan más sin intervención humana, la eficiencia de la
-> IA expande el margen en lugar de destruir el ingreso.
->
-> La siguiente línea de ingreso es alquilar agentes: el cliente paga un valor fijo mensual
-> por tener un agente operando dentro de su negocio. Empezamos por los más estandarizables
-> — servicio al cliente y atención de leads B2C de alto volumen — y subimos hacia roles de
-> mayor valor, como un analista de datos. Es la misma operación, pero productizada al punto
-> de poder desplegarse sin que nuestro equipo la construya desde cero cada vez. Ahí el
-> ingreso se vuelve recurrente por agente desplegado, y el margen crece con el volumen que
-> cada agente absorbe sin que cambie el precio.
->
-> El techo por cliente no es el precio del plan: es cuánta de su operación terminamos
-> operando. Un cliente entra resolviendo una necesidad puntual y crece conforme nos confía
-> más de su negocio. Y el presupuesto al que apuntamos no es el de software — es el que las
-> empresas gastan en operar esa tecnología, varias veces más grande.
+> La siguiente línea es alquilar agentes: un valor fijo mensual por cada agente operando
+> dentro del negocio del cliente, empezando por los más estandarizables — servicio al
+> cliente y atención de leads B2C de alto volumen — y subiendo hacia roles de mayor valor
+> como un analista de datos. Ahí el ingreso se vuelve recurrente por agente desplegado y el
+> margen crece con el volumen que absorbe sin que cambie el precio. Por eso el techo por
+> cliente no es el precio del plan sino cuánta de su operación terminamos operando — y el
+> presupuesto al que apuntamos no es el de software, sino el que las empresas gastan en
+> operar esa tecnología, varias veces más grande.
 
 > **EN (listo para pegar):**
-> We charge a monthly base subscription plus credits per operation. Every request consumes
-> credits: operations we've already productized have a fixed cost, while work that takes
-> more judgment or scope is priced in variable credits based on complexity. When a client
-> burns through their monthly allotment, they buy additional credits on top of the
-> subscription.
+> We charge a monthly base subscription plus credits per operation: operations we've
+> productized have a fixed credit cost, while work that takes more judgment or scope is
+> priced by complexity, and clients buy additional credits when they burn through their
+> allotment. That gives us the good part of SaaS — predictable recurring revenue — without
+> its ceiling: seat-based SaaS is capped by the customer's headcount and shrinks precisely
+> when AI makes them more efficient, while our revenue grows with how much of their
+> operation we absorb and our margin expands as our agents execute more without human
+> intervention.
 >
-> This gives us the good part of SaaS — predictable recurring revenue — without its
-> ceiling. Seat-based SaaS charges for how many people use the tool, so its revenue is
-> capped by the customer's headcount and shrinks precisely when AI makes them more
-> efficient. We charge per operation delivered: our revenue grows with how much of the
-> customer's operation we absorb, not with how many people they employ. And because the
-> cost of delivering each operation falls as our agents execute more without human
-> intervention, AI efficiency expands margin instead of destroying revenue.
->
-> The next revenue line is renting agents: the client pays a fixed monthly price per agent
-> running inside their business. We start with the most standardizable ones — customer
-> service and high-volume B2C lead handling — and move up to higher-value roles like a
-> data analyst. It's the same operation, productized to the point where it can be deployed
-> without our team building it from scratch each time. There revenue becomes recurring per
-> agent deployed, and margin grows with the volume each agent absorbs at an unchanged
-> price.
->
-> The ceiling per customer isn't the plan price — it's how much of their operation we end
-> up running. A customer lands solving one urgent need and grows as they trust us with
-> more of their business. And the budget we're addressing isn't the software budget, it's
-> what companies spend operating that technology, which is several times larger.
+> The next line is renting agents: a fixed monthly price per agent running inside the
+> client's business, starting with the most standardizable ones — customer service and
+> high-volume B2C lead handling — and moving up to higher-value roles like a data analyst.
+> There revenue becomes recurring per agent deployed and margin grows with the volume it
+> absorbs at an unchanged price. That's why the ceiling per customer isn't the plan price
+> but how much of their operation we end up running — and the budget we're addressing
+> isn't the software budget, it's what companies spend operating that technology, which is
+> several times larger.
 
 `[DECISIÓN 2026-07-31: la respuesta va sin cifras exactas — precios de planes, costos en
 créditos por tarea, porcentajes de mercado y proyecciones de ARR. Es una pregunta de
