@@ -166,6 +166,14 @@ Guion sugerido (2 minutos, español, los 3 founders si es posible, sin producci�
 > equipo de ventas dedicado). Y como cobramos por operación entregada y no por tiempo, cada
 > mejora en la eficiencia de nuestros agentes de IA expande el margen en lugar de destruir
 > ingresos — lo contrario del SaaS por asiento y de los modelos por hora.
+>
+> **Hacia dónde va:** la siguiente línea de ingreso es alquilar agentes — el cliente paga un
+> valor fijo mensual por tener un agente operando dentro de su negocio. Empezamos por los más
+> estandarizables (servicio al cliente y atención de leads B2C de alto volumen) y subimos hacia
+> roles de mayor valor, como un analista de datos. Es la misma operación, productizada al punto
+> de poder desplegarse sin construirla desde cero cada vez: el ingreso se vuelve recurrente por
+> agente desplegado y el margen crece con el volumen que cada agente absorbe sin que cambie el
+> precio.
 
 ### ¿Quiénes son tu competencia directa y/o indirecta? ¿Existe alguna solución similar en tu mercado o en otros mercados?
 

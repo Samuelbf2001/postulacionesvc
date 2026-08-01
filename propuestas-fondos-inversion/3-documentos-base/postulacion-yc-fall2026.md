@@ -572,6 +572,14 @@ así en el formulario (guardar el término para la entrevista). La reemplacé po
 > baja conforme nuestros agentes ejecutan más sin intervención humana, la eficiencia de la
 > IA expande el margen en lugar de destruir el ingreso.
 >
+> La siguiente línea de ingreso es alquilar agentes: el cliente paga un valor fijo mensual
+> por tener un agente operando dentro de su negocio. Empezamos por los más estandarizables
+> — servicio al cliente y atención de leads B2C de alto volumen — y subimos hacia roles de
+> mayor valor, como un analista de datos. Es la misma operación, pero productizada al punto
+> de poder desplegarse sin que nuestro equipo la construya desde cero cada vez. Ahí el
+> ingreso se vuelve recurrente por agente desplegado, y el margen crece con el volumen que
+> cada agente absorbe sin que cambie el precio.
+>
 > El techo por cliente no es el precio del plan: es cuánta de su operación terminamos
 > operando. Un cliente entra resolviendo una necesidad puntual y crece conforme nos confía
 > más de su negocio. Y el presupuesto al que apuntamos no es el de software — es el que las
@@ -591,6 +599,14 @@ así en el formulario (guardar el término para la entrevista). La reemplacé po
 > customer's operation we absorb, not with how many people they employ. And because the
 > cost of delivering each operation falls as our agents execute more without human
 > intervention, AI efficiency expands margin instead of destroying revenue.
+>
+> The next revenue line is renting agents: the client pays a fixed monthly price per agent
+> running inside their business. We start with the most standardizable ones — customer
+> service and high-volume B2C lead handling — and move up to higher-value roles like a
+> data analyst. It's the same operation, productized to the point where it can be deployed
+> without our team building it from scratch each time. There revenue becomes recurring per
+> agent deployed, and margin grows with the volume each agent absorbs at an unchanged
+> price.
 >
 > The ceiling per customer isn't the plan price — it's how much of their operation we end
 > up running. A customer lands solving one urgent need and grows as they trust us with
