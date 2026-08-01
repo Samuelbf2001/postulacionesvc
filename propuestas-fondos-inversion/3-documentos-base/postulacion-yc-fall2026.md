@@ -559,99 +559,75 @@ así en el formulario (guardar el término para la entrevista). La reemplacé po
 ### How do or will you make money? How much could you make?
 
 > **ES (borrador de trabajo):**
-> Cobramos una suscripción base mensual más créditos por operación. Tres planes: $199/mes
-> (60 créditos), $499/mes (160 créditos) y desde $1,200/mes (400+ créditos acumulables).
-> Cada solicitud consume créditos según su complejidad: las operaciones que ya
-> productizamos tienen un costo fijo (una automatización 10–20 créditos, una campaña de
-> email 15–30, una integración 20–40, un agente conversacional 30–60); las que requieren
-> criterio o alcance mayor se cotizan en créditos variables. Cuando el cliente consume su
-> bolsa, compra créditos adicionales sobre la suscripción.
+> Cobramos una suscripción base mensual más créditos por operación. Cada solicitud consume
+> créditos: las operaciones que ya productizamos tienen un costo fijo, y las que requieren
+> más criterio o alcance se cotizan en créditos variables según su complejidad. Cuando el
+> cliente consume su bolsa mensual, compra créditos adicionales sobre la suscripción.
 >
-> Esto nos da la parte buena del SaaS — ingreso recurrente predecible, base contratada — sin
-> su techo. El SaaS por asiento cobra por cuántas personas usan la herramienta, así que su
-> ingreso queda limitado por la nómina del cliente y se contrae justo cuando la IA lo hace
-> más eficiente. Nosotros cobramos por operación entregada: nuestro ingreso crece con
-> cuánta operación del cliente absorbemos, no con cuánta gente tiene. Y como el costo de
-> entregar cada operación baja conforme nuestros agentes ejecutan más sin intervención
-> humana, la eficiencia de la IA expande margen en lugar de destruir ingreso.
+> Esto nos da la parte buena del SaaS — ingreso recurrente y predecible — sin su techo. El
+> SaaS por asiento cobra por cuántas personas usan la herramienta, así que su ingreso queda
+> limitado por la nómina del cliente y se contrae justo cuando la IA lo hace más eficiente.
+> Nosotros cobramos por operación entregada: nuestro ingreso crece con cuánta operación del
+> cliente absorbemos, no con cuánta gente tiene. Y como el costo de entregar cada operación
+> baja conforme nuestros agentes ejecutan más sin intervención humana, la eficiencia de la
+> IA expande el margen en lugar de destruir el ingreso.
 >
-> El mercado ya está migrando hacia este modelo: la facturación por asiento cayó de 21% a
-> 15% de las empresas de software en doce meses, mientras que los modelos híbridos
-> (suscripción base + consumo variable) subieron de 27% a 41% y hoy son la estructura
-> principal del 37% del mercado. Nosotros llegamos ahí desde el lado de los servicios, no
-> del software.
->
-> Cuánto podríamos llegar a facturar: el techo por cliente no es el precio del plan, es
-> cuánta de su operación absorbemos. Un cliente entra en $199 resolviendo una necesidad
-> puntual y crece a $499 y a $1,200+ conforme le operamos más — y por cada $1 que una PyME
-> gasta en software gasta cerca de $6 en los servicios y la mano de obra para operarlo, que
-> es el presupuesto que realmente estamos direccionando. Con un promedio de $500/mes por
-> cliente, 10,000 clientes son $60M de ARR y 100,000 son $600M de ARR. Lo que hace esto
-> alcanzable sin escalar headcount linealmente es que hoy nuestros agentes ya ejecutan el
-> 60% de las acciones dentro de la operación de un cliente, y cada flujo que llevamos a
-> autonomía total se vuelve capacidad instalada para todos los clientes siguientes.
->
-> Unit economics actuales: `[CONFIRMAR: margen bruto %, churn, expansión/NRR]`. Hoy cada
-> especialista, amplificado por agentes, opera `[CONFIRMAR: N]` cuentas.
+> El techo por cliente no es el precio del plan: es cuánta de su operación terminamos
+> operando. Un cliente entra resolviendo una necesidad puntual y crece conforme nos confía
+> más de su negocio. Y el presupuesto al que apuntamos no es el de software — es el que las
+> empresas gastan en operar esa tecnología, varias veces más grande.
 
 > **EN (listo para pegar):**
-> We charge a monthly base subscription plus credits per operation. Three plans: $199/mo
-> (60 credits), $499/mo (160 credits), and from $1,200/mo (400+ rollover credits). Every
-> request consumes credits based on complexity: operations we've already productized have
-> a fixed cost (an automation is 10–20 credits, an email campaign 15–30, an integration
-> 20–40, a conversational agent 30–60), while work requiring more judgment or scope is
-> priced in variable credits. When a client burns through their allotment, they buy
-> additional credits on top of the subscription.
+> We charge a monthly base subscription plus credits per operation. Every request consumes
+> credits: operations we've already productized have a fixed cost, while work that takes
+> more judgment or scope is priced in variable credits based on complexity. When a client
+> burns through their monthly allotment, they buy additional credits on top of the
+> subscription.
 >
-> This gives us the good part of SaaS — predictable recurring revenue, a contracted base —
-> without its ceiling. Seat-based SaaS charges for how many people use the tool, so its
-> revenue is capped by the customer's headcount and shrinks precisely when AI makes them
-> more efficient. We charge per operation delivered: our revenue grows with how much of
-> the customer's operation we absorb, not with how many people they employ. And because
-> the cost of delivering each operation falls as our agents execute more without human
+> This gives us the good part of SaaS — predictable recurring revenue — without its
+> ceiling. Seat-based SaaS charges for how many people use the tool, so its revenue is
+> capped by the customer's headcount and shrinks precisely when AI makes them more
+> efficient. We charge per operation delivered: our revenue grows with how much of the
+> customer's operation we absorb, not with how many people they employ. And because the
+> cost of delivering each operation falls as our agents execute more without human
 > intervention, AI efficiency expands margin instead of destroying revenue.
 >
-> The market is already moving this way: seat-based billing fell from 21% to 15% of
-> software companies in twelve months, while hybrid models (base subscription + variable
-> consumption) jumped from 27% to 41% and are now the primary structure for 37% of the
-> market. We arrived there from the services side rather than the software side.
->
-> How much we could make: the ceiling per customer isn't the plan price, it's how much of
-> their operation we absorb. A customer lands at $199 solving one urgent need and grows to
-> $499 and $1,200+ as we run more for them — and for every $1 an SMB spends on software
-> they spend roughly $6 on the services and labor to operate it, which is the budget we're
-> actually addressing. At a $500/mo average, 10,000 customers is $60M ARR and 100,000 is
-> $600M ARR. What makes that reachable without scaling headcount linearly is that our
-> agents already execute 60% of the actions inside a client's operation today, and every
-> workflow we take to full autonomy becomes installed capacity for every client after it.
->
-> Current unit economics: [CONFIRMAR: gross margin %, churn, expansion/NRR]. Today each
-> specialist, amplified by agents, operates [CONFIRMAR: N] accounts.
+> The ceiling per customer isn't the plan price — it's how much of their operation we end
+> up running. A customer lands solving one urgent need and grows as they trust us with
+> more of their business. And the budget we're addressing isn't the software budget, it's
+> what companies spend operating that technology, which is several times larger.
 
-`[INVESTIGACIÓN 2026-07-31 — datos de mercado citados arriba, verificados:]`
-- Facturación por asiento: **21% → 15%** de las empresas de software en 12 meses. Modelos
-  híbridos (base + consumo): **27% → 41%**, y son la estructura principal del **37%** del
-  mercado. Fuente: reportes de monetización B2B SaaS 2026 (Growth Unhinged / Monetizely).
+`[DECISIÓN 2026-07-31: la respuesta va sin cifras exactas — precios de planes, costos en
+créditos por tarea, porcentajes de mercado y proyecciones de ARR. Es una pregunta de
+modelo de negocio, no de números. Los datos duros van en PROGRESS y en la entrevista.]`
+
+`[MUNICIÓN PARA LA ENTREVISTA — investigado y verificado 2026-07-31. NO va en el
+formulario, pero sirve si un partner cuestiona el modelo de créditos:]`
+- El mercado está migrando exactamente a este modelo: la facturación por asiento cayó de
+  **21% a 15%** de las empresas de software en 12 meses, mientras los modelos híbridos
+  (base + consumo variable) subieron de **27% a 41%** y son la estructura principal del
+  **37%** del mercado. Fuentes: Growth Unhinged / Monetizely, reportes de monetización
+  B2B SaaS 2026.
 - Encuesta Cruxy (abril 2026, 300 CEOs de SaaS): **97% planea retirar el cobro por asiento
   en dos años.**
-- Benchmarks de cobro por resultado, útiles para la entrevista: Intercom Fin **$0.99** por
-  conversación resuelta; Zendesk **$1.50** por resolución automatizada con volumen
-  comprometido (**$2.00** pay-as-you-go); HubSpot bajó su Customer Agent a **$0.50** por
-  conversación resuelta (abril 2026).
+- Benchmarks de cobro por unidad entregada: Intercom Fin **$0.99** por conversación
+  resuelta; Zendesk **$1.50** por resolución automatizada con volumen comprometido
+  (**$2.00** pay-as-you-go); HubSpot bajó su Customer Agent a **$0.50** por conversación
+  resuelta (abril 2026).
 - Gartner: **40%** de las aplicaciones empresariales tendrán agentes de IA para fines de
   2026, contra menos del 5% hoy.
 - Matiz importante: el mercado dice "outcome-based" pero casi todas las implementaciones
-  reales son **output-based** (por tarea completada), que es exactamente lo que hacen
+  reales son **output-based** (por tarea completada) — que es exactamente lo que hacen
   ustedes al cobrar por operación entregada y no por resultado de negocio. Están alineados
   con lo que el mercado realmente hace, no con el eslogan.
 
-`[Siguen dos huecos reales: margen bruto/churn/NRR, y cuántas cuentas maneja hoy un
-especialista. Sin esos dos números el resto de la respuesta es sólida.]`
+`[Datos propios que siguen faltando para la entrevista: margen bruto, churn, NRR, y cuántas
+cuentas opera hoy un especialista.]`
 
 `[NOTA: se mantiene la decisión del 2026-07-25 de NO usar la etiqueta "Service as a
 Software" en el formulario — la respuesta usa la mecánica de la tesis (unidad de cobro =
-operación entregada, no asiento; TAM = presupuesto de servicios, no de software) sin el
-término. Guardarlo para la entrevista.]`
+operación entregada, no asiento; presupuesto objetivo = el de operar la tecnología, no el
+de software) sin el término. Guardarlo para la entrevista.]`
 
 ### If you had any other ideas you considered applying with, please list them.
 
