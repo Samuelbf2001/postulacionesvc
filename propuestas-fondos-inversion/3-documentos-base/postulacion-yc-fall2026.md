@@ -630,40 +630,47 @@ de software) sin el término. Guardarlo para la entrevista.]`
 
 ### If you had any other ideas you considered applying with, please list them.
 
-> `[BORRADOR — necesita tu validación: estas tienen que ser ideas que ustedes realmente
-> consideraron. Las armé sobre activos que ya están construyendo (ver roadmap de 4 meses en
-> la postulación de 500), no inventadas. Corrige, reemplaza o agrega las reales.]`
+> `[BORRADOR — necesita tu validación final: estas tienen que ser ideas que ustedes
+> realmente consideraron. Las tres salen de activos que ya están construyendo (roadmap de
+> 4 meses) o de decisiones de estrategia que ya tomaron, no son inventadas. Corrige o
+> reemplaza si consideraron otras.]`
 
 > **ES (borrador de trabajo):**
-> 1. **Infraestructura para firmas de servicios nativas en IA.** El SDK de agentes
->    intercomunicados y el agente orquestador que construimos para operar Sixteam —
->    recepción de la solicitud, planificación, delegación a agentes especializados, revisión
->    del trabajo, escalamiento a criterio humano — vendido como infraestructura a otras
->    firmas de servicios que quieren operar con agentes. Es el pico y la pala de la
->    categoría en la que estamos compitiendo.
-> 2. **Capa de memoria de negocio para agentes.** El contexto persistente por cliente que
->    guarda cómo opera su negocio, sus objetivos y su stack, para que cualquier agente
->    ejecute con contexto completo en lugar de partir de cero. Hoy es un componente interno;
->    como producto independiente resuelve el problema que tiene cualquiera que despliegue
->    agentes dentro de una empresa real.
-> 3. **Operador vertical de IA para agencias de viajes.** Ir a fondo en nuestra vertical
->    ancla (MasterViajes, Student Travel Center) en lugar de horizontal: un producto que
->    opera cotización, seguimiento y retención de una agencia de viajes de punta a punta.
+> 1. **Trabajadores de IA en alquiler, sin capa de servicio.** La versión puramente
+>    self-serve: un catálogo de agentes que la empresa contrata por un precio fijo mensual —
+>    servicio al cliente, atención de leads, analista de datos — y despliega sola, sin que
+>    nadie se los configure ni los opere. Mismo destino que el nuestro, saltándose la capa
+>    de servicio con la que hoy llegamos ahí.
+> 2. **Infraestructura para firmas de servicios nativas en IA.** El orquestador de agentes,
+>    el SDK de agentes intercomunicados y el sistema de medición por créditos que
+>    construimos para operar Sixteam, vendidos a otras firmas de servicios que quieren
+>    operar con agentes en lugar de con horas. Es el pico y la pala de la categoría en la
+>    que estamos compitiendo.
+> 3. **Capa de memoria de negocio para agentes.** El contexto persistente que guarda cómo
+>    opera una empresa, sus objetivos y su stack, para que cualquier agente ejecute con
+>    contexto completo en lugar de partir de cero. Hoy es un componente interno nuestro; es
+>    el problema con el que se topa cualquiera que despliegue agentes dentro de una empresa
+>    real.
 
 > **EN (listo para pegar):**
-> 1. **Infrastructure for AI-native services firms.** The intercommunicating-agent SDK and
->    orchestrator agent we built to run Sixteam — request intake, planning, delegation to
->    specialized agents, review of delivered work, escalation to human judgment — sold as
->    infrastructure to other services firms that want to operate with agents. It's the
->    picks-and-shovels play for the category we're competing in.
-> 2. **A business-memory layer for agents.** The persistent per-client context that holds
->    how a business operates, its goals, and its stack, so any agent executes with full
->    context instead of starting from zero. Today it's an internal component; as a
->    standalone product it solves the problem anyone deploying agents inside a real company
->    runs into.
-> 3. **Vertical AI operator for travel agencies.** Going deep in our anchor vertical
->    (MasterViajes, Student Travel Center) instead of horizontal: a product that runs
->    quoting, follow-up, and retention for a travel agency end to end.
+> 1. **Rentable AI workers, with no services layer.** The purely self-serve version: a
+>    catalog of agents a company rents at a fixed monthly price — customer service, lead
+>    handling, data analyst — and deploys on its own, with nobody configuring or operating
+>    them. Same destination as ours, skipping the services layer we use to get there today.
+> 2. **Infrastructure for AI-native services firms.** The agent orchestrator, the
+>    intercommunicating-agent SDK, and the credit-metering system we built to run Sixteam,
+>    sold to other services firms that want to operate with agents instead of hours. It's
+>    the picks-and-shovels play for the category we're competing in.
+> 3. **A business-memory layer for agents.** The persistent context that holds how a
+>    company operates, its goals, and its stack, so any agent executes with full context
+>    instead of starting from zero. Today it's an internal component of ours; it's the
+>    problem anyone deploying agents inside a real company runs into.
+
+`[OJO — riesgo de contradicción evitado: el alquiler de agentes ya está en la respuesta de
+"how do you make money" como nuestra siguiente línea de ingreso. Por eso la #1 aquí está
+formulada como la versión SIN capa de servicio (self-serve puro), que sí es una empresa
+distinta. No cambiarla a "alquilar agentes" a secas o se lee como que la idea principal y
+la alternativa son la misma.]`
 
 `[Nota de YC en esta pregunta: "One may be something we've been waiting for. Often when we
 fund people it's to do something they list here and not in the main application." No

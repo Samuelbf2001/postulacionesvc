@@ -222,15 +222,36 @@ Guion sugerido (2 minutos, español, los 3 founders si es posible, sin producci�
 
 ### Describe lo que hace tu producto o servicio, destacando sus características principales y funcionalidades
 
-> **ES (versión larga — reusar el one-liner extendido de arriba u otra variante):**
-> Operamos con dos capas de agentes de IA la parte comercial de negocios de servicios.
-> Unos ejecutan tareas específicas dentro de la operación del cliente — atender leads,
-> mover el pipeline, dar seguimiento, generar reportes. Otros corren en loop revisando esa
-> operación buscando mejora continua: qué se está cayendo, qué se puede automatizar, qué
-> hay que ajustar. Los especialistas humanos aportan lo que los agentes no tienen: la
-> metodología, el contexto del negocio del cliente y el conocimiento profundo de cada
-> herramienta. Hoy operamos así para agencias de viajes, servicios profesionales con cita e
-> inmobiliarias en Latinoamérica.
+> **ES (2026-07-31 — alineado con el stack confirmado para YC):**
+> Nuestro producto es la operación de la tecnología del cliente. El cliente nos envía sus
+> solicitudes — dudas, ajustes, requerimientos nuevos sobre su CRM, sus automatizaciones, su
+> pauta o su reportería — y nosotros las resolvemos con una combinación de agentes de IA y
+> especialistas humanos. No entregamos una herramienta: entregamos la operación resuelta.
+>
+> **Características principales:**
+> - **Un agente por cada tipo de acción de la operación** — análisis de datos, pauta digital,
+>   CRM, desempeño del equipo comercial y gestión de proyectos — todos intercomunicados entre
+>   sí, de modo que una solicitud puede recorrer varios agentes sin que el cliente lo gestione.
+> - **Integración con las herramientas que el cliente ya usa** (CRM, ERP, BI, gestores de
+>   operación) vía MCP y APIs; cuando no hay API, operamos la interfaz directamente. No
+>   reemplazamos el stack del cliente: lo operamos.
+> - **Interacción conversacional.** La mayor parte del trabajo se pide y se entrega hablando
+>   con los agentes, con una interfaz de control simple encima para ver estado y consumo.
+> - **Cobro por operación entregada mediante créditos.** Cada tipo de solicitud tiene un costo
+>   fijo en créditos según su complejidad — no cobramos por hora ni por asiento.
+> - **Reportería propia:** el cliente ve qué se ejecutó, qué resultado produjo y cuánto consumió.
+>
+> **Hacia dónde va el producto:** además del servicio de operación, vamos a ofrecer agentes en
+> renta — el cliente paga una tarifa fija mensual por la operación de un agente específico.
+> Empezaremos por los más acotados y de mayor volumen: servicio al cliente y atención masiva de
+> leads B2C. Es el paso natural del modelo: cada operación que llevamos a autonomía end-to-end
+> deja de necesitar especialista y puede venderse sola, a precio fijo y con margen de software.
+
+`[IDEA REGISTRADA 2026-07-31 (conversación de founders): agentes en renta a tarifa fija por
+agente, empezando por servicio al cliente y atención masiva de leads B2C. Impacta también:
+la pregunta de modelo de negocio de 500, la de "How do or will you make money" de YC, y el
+roadmap de 4 meses de 500 — revisar que las tres cuenten la misma evolución. PENDIENTE:
+decidir si esa línea se menciona ya en YC o se guarda para la entrevista.]`
 
 ### ¿Cuál es tu ventaja competitiva?
 
@@ -262,48 +283,49 @@ postura confirmada el 2026-07-30 de no reconstruir la rueda e integrar lo que ya
 
 ### ¿Cómo se ha desarrollado la tecnología? Indica si el desarrollo fue realizado internamente, externalizado o en colaboración con terceros no fundadores.
 
-> **ES (honesto, consistente con la respuesta ya validada para YC):**
-> El desarrollo lo lidera Samuel como founder, principalmente con vibecoding (desarrollo
-> asistido por IA), que cubre alrededor del 90% del trabajo. Cuando aparecen bloqueos
-> técnicos difíciles o decisiones de arquitectura/producto, se consulta a asesores externos
-> — desarrolladores y arquitectos de soluciones con experiencia — que revisan y en ocasiones
-> corrigen código directamente. No son parte del equipo fundador ni tienen un rol de
-> ejecución permanente: es apoyo puntual y externo.
+> **ES (2026-07-31 — responde con las categorías exactas que pide la pregunta):**
+> El desarrollo es **interno, con colaboración puntual de terceros no fundadores**. Nada está
+> externalizado: no hay proveedores ni fábricas de software construyendo el producto por
+> nosotros.
+>
+> Lo lidera Samuel como founder, con desarrollo asistido por IA — Claude Code es el entorno
+> principal y ahí está construida la mayor parte del producto y de los agentes.
+>
+> La colaboración externa es de consulta, no de ejecución: cuando aparece un bloqueo técnico
+> difícil o una decisión de arquitectura de fondo, consultamos a asesores externos —
+> desarrolladores y arquitectos de soluciones con experiencia — que revisan y en ocasiones
+> corrigen código directamente. No forman parte del equipo fundador, no tienen equity y no
+> tienen un rol permanente en la ejecución del producto.
+>
+> Sobre la base tecnológica: no reconstruimos lo que ya existe. Construimos sobre SDKs de
+> desarrollo de agentes y nos integramos vía MCP y APIs a los sistemas del cliente. Lo que sí
+> es propio es la capa que orquesta a los agentes, los conecta entre sí y con los sistemas del
+> cliente, mide el consumo y produce la reportería.
 
-> **Nota:** hay una nota en `Untitled-1.txt` sugiriendo remarcar que el desarrollo es
-> "100% interno" para este track. Eso contradice la respuesta que ya validaste el
-> 2026-07-25 (asesores externos sí tocan código). Mantuve la versión honesta — decide si
-> quieres ajustar la realidad (dejar de usar asesores externos) o ajustar el mensaje, pero
-> no recomiendo declarar "100% interno" si no es cierto: 500 pregunta esto explícitamente
-> y es fácil de verificar en diligencia.
+`[DECISIÓN SOSTENIDA (2026-07-25, reafirmada 2026-07-31): NO declarar "desarrollo 100%
+interno" — la nota de `Untitled-1.txt` lo sugiere para este track, pero los asesores externos
+sí corrigen código y 500 pregunta esto de forma explícita y verificable en diligencia. La
+redacción de arriba resuelve la tensión: dice "interno, con colaboración puntual de terceros
+no fundadores", que es exacto y no debilita — lo que 500 castiga es el desarrollo
+externalizado, no que un founder consulte especialistas.]`
 
 ### ¿Qué tecnología utilizas para el desarrollo de tu producto? Describe el tech stack a detalle.
 
-> **ES (alineado con la respuesta 15 de YC — confirmado por Samuel 2026-07-30):**
-> **Modelos de IA:** no trabajamos con un solo modelo. Usamos modelos distintos según la
-> tarea, optimizando calidad contra costo: Claude para el trabajo de razonamiento y para el
-> trabajo diario del equipo, y modelos pequeños de bajo costo para tareas acotadas y de alto
-> volumen. Poder cambiar de modelo por tipo de tarea es parte del diseño: el costo por
-> operación baja cada vez que sale un modelo mejor o más barato.
->
-> **Desarrollo:** Claude Code es el entorno principal — la mayor parte del producto y de los
-> agentes está construida ahí, con skills propias y servidores MCP conectados a nuestra
-> infraestructura.
->
-> **Arquitectura:** todo montado sobre SDKs de desarrollo de agentes, con los agentes
-> intercomunicados — uno por cada tipo de acción de la operación: análisis de datos, pauta
-> digital, CRM, desempeño del equipo comercial y gestión de proyectos. Encima hay una interfaz
-> de control simple, pero la mayor parte de la interacción es conversacional con los agentes.
->
-> **Integración:** es la parte más importante de la apuesta técnica. Nos conectamos vía MCP y
-> APIs a los sistemas donde ya vive la operación del cliente — CRM, ERP, BI, gestores de
-> operación — y operamos directamente sobre la interfaz cuando no hay API. No reconstruimos
-> la rueda: la ventaja no está en reescribir un CRM, está en orquestar los que ya existen.
->
-> **Infraestructura:** todo en la nube.
->
-> Lo que sí construimos como propio es la capa que orquesta a los agentes, los conecta entre
-> sí y con los sistemas del cliente, mide el consumo y produce la reportería.
+> **ES (FINAL 2026-07-31 — misma versión validada en la pregunta 15 de YC):**
+> No nos casamos con un solo modelo: usamos modelos distintos según la tarea buscando la
+> mejor relación calidad/precio — Claude para el razonamiento y para el trabajo diario del
+> equipo, y modelos pequeños de bajo costo para tareas acotadas de alto volumen — así que el
+> costo por operación baja cada vez que sale un modelo mejor o más barato. Desarrollamos con
+> Claude Code, donde está construida la mayor parte del producto y de los agentes, con skills
+> propias y servidores MCP: la misma herramienta con la que construimos es la que opera. Todo
+> está montado sobre SDKs de desarrollo de agentes intercomunicados entre sí, uno por cada
+> tipo de acción de la operación — análisis de datos, pauta digital, CRM, desempeño del equipo
+> comercial y gestión de proyectos — con una interfaz de control simple encima, aunque la
+> mayor parte de la interacción es conversacional. Nuestra apuesta técnica central es la
+> integración: nos conectamos vía MCP y APIs a los sistemas donde ya vive la operación del
+> cliente (CRM, ERP, BI, gestores de operación) y operamos la interfaz directamente cuando no
+> hay API. No reconstruimos la rueda: lo propio es la capa que orquesta los agentes, los
+> conecta y produce la reportería. Todo corre en la nube.
 
 ---
 
