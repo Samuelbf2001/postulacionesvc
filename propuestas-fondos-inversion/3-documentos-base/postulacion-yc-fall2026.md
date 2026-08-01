@@ -211,8 +211,8 @@ Sugerencia de contenido: screen recording mostrando (1) un cliente enviando una 
 
 > **ES (borrador de trabajo):**
 > **ES (FINAL — validado por Samuel 2026-07-30):**
-> Estamos en fase de validación, con clientes pagando: 8 clientes en retainer mensual y
-> ~$8,000 de MRR.
+> Estamos en fase de validación, con clientes pagando: 8 clientes y ~$8,000 de facturación
+> mensual, de los cuales ~70% es ingreso recurrente.
 >
 > Todavía no está construido todo el ecosistema de agentes: hoy ~60% de las acciones de la
 > operación las ejecuta la IA y el 40% nuestros especialistas, con la orquestación a cargo de
@@ -227,8 +227,8 @@ Sugerencia de contenido: screen recording mostrando (1) un cliente enviando una 
 > salir a conseguir más clientes y seguir construyendo el ecosistema de agentes.
 
 > **EN (FINAL — listo para pegar en el formulario):**
-> We're in validation, with paying customers: 8 customers on monthly retainers and ~$8,000
-> MRR.
+> We're in validation, with paying customers: 8 customers and ~$8,000 in monthly revenue,
+> ~70% of it recurring.
 >
 > The full agent ecosystem isn't built yet: today ~60% of the actions in the operation are
 > executed by AI and 40% by our specialists, with humans doing the orchestration. That 40%
@@ -341,6 +341,63 @@ nuevo.]`
 ### 16. Are people using your product? → **Yes**
 
 ### 17. Do you have revenue? → **Yes**
+
+### 17b. Where does your revenue come from? If your revenue comes from multiple sources (e.g., multiple products, multiple companies or a mix of consulting and this product), please break down how much is coming from each source.
+
+> *(Esta pregunta aparece al responder "Yes" en revenue; no estaba en la copia del formulario
+> que teníamos guardada. Agregada 2026-07-31.)*
+
+> **ES (borrador de trabajo):**
+> Todo el ingreso viene de una sola línea de negocio y de un solo tipo de cliente, repartido
+> así: ~70% es recurrente — el retainer mensual con el que operamos la tecnología del área de
+> RevOps del cliente, resolviendo sus solicitudes, dudas y requerimientos nuevos sobre esa
+> tecnología. El ~30% restante viene de implementaciones nuevas y consultoría puntual.
+> Sobre ~$8,000 de facturación mensual, eso son ~$5,600 recurrentes y ~$2,400 de trabajo por
+> proyecto. No tenemos otras empresas ni otros productos: el 100% de lo que facturamos sale
+> de esta operación.
+> `[CONFIRMAR si es cierto y quieres decirlo: que la implementación funciona como puerta de
+> entrada al retainer. Si lo es, agregar una frase — explica por qué ese 30% baja como % del
+> total a medida que la base recurrente crece, y convierte el dato en trayectoria.]`
+
+> **EN (listo para pegar):**
+> All of our revenue comes from one line of business and one type of customer, split like
+> this: ~70% is recurring — the monthly retainer under which we operate the technology in the
+> client's revenue-operations area, handling their requests, questions, and new requirements
+> on that technology. The remaining ~30% comes from new implementations and one-off
+> consulting. On ~$8,000 in monthly revenue, that's ~$5,600 recurring and ~$2,400 in
+> project work. We have no other companies and no other products: 100% of what we bill comes
+> from this operation.
+
+### 17c. Anything else you would like us to know regarding your revenue or growth rate?
+
+> **ES (FINAL — validado por Samuel 2026-07-31):**
+> Este año hemos duplicado la facturación. Ese crecimiento vino sin equipo de ventas ni
+> presupuesto de adquisición: llega por referidos y por la conversión de implementaciones en
+> operación recurrente. Creemos que hay mucho espacio por delante con una estrategia de
+> go-to-market deliberada, que todavía no hemos sistematizado. Y nuestro margen mejora con el
+> producto, no con el precio: hoy ~60% de las acciones las ejecuta la IA, y cada operación
+> que llevamos a autonomía deja de consumir tiempo de especialista — entregar el mismo
+> ingreso nos cuesta menos cada mes que pasa.
+
+> **EN (FINAL — listo para pegar en el formulario):**
+> We've doubled our revenue this year. That growth came with no sales team and no acquisition
+> budget: it comes from referrals and from converting implementations into recurring
+> operations. We believe there's a lot of room ahead with a deliberate go-to-market strategy,
+> which we haven't systematized yet. And our margin improves through the product, not the
+> price: today ~60% of the actions are executed by AI, and every operation we take to
+> autonomy stops consuming specialist time — delivering the same revenue costs us less every
+> month.
+
+`[REGLA APLICADA: la confianza en crecer fuerte mes a mes se expresa como espacio disponible
+y como plan, nunca como cifra prometida. YC castiga las proyecciones garantizadas y premia
+que reconozcas la pieza que falta — aquí, el go-to-market sistematizado.]`
+
+`[POR QUÉ SE DECLARA Y NO SE ESCONDE: YC hace esta pregunta para detectar consultoría
+disfrazada de producto. Un 70/30 a favor del recurrente es una buena respuesta. Lo que se
+castiga es que en la entrevista se descubra que el "MRR" incluía facturación por proyecto.]`
+
+`[CONSISTENCIA: por este dato se ajustó la respuesta 13 — ya no dice "~$8,000 de MRR" sino
+"~$8,000 de facturación mensual, ~70% recurrente". Si el número cambia, cambiar en las dos.]`
 
 ### 18. If you are applying with the same idea as a previous batch, did anything change? If you applied with a different idea, why did you pivot and what did you learn from the last idea?
 
@@ -502,43 +559,141 @@ así en el formulario (guardar el término para la entrevista). La reemplacé po
 ### How do or will you make money? How much could you make?
 
 > **ES (borrador de trabajo):**
-> Retainers mensuales con créditos por uso: $199/mes (Esencial), $499/mes (Integral),
-> $1,200+/mes (Total, dedicado). Los clientes entran con un plan pequeño para una necesidad
-> puntual y expanden conforme les operamos más de su negocio — land & expand sin equipo de
-> ventas. Unit economics actuales: `[CONFIRMAR: margen bruto %, churn, expansión]`.
+> Cobramos una suscripción base mensual más créditos por operación. Tres planes: $199/mes
+> (60 créditos), $499/mes (160 créditos) y desde $1,200/mes (400+ créditos acumulables).
+> Cada solicitud consume créditos según su complejidad: las operaciones que ya
+> productizamos tienen un costo fijo (una automatización 10–20 créditos, una campaña de
+> email 15–30, una integración 20–40, un agente conversacional 30–60); las que requieren
+> criterio o alcance mayor se cotizan en créditos variables. Cuando el cliente consume su
+> bolsa, compra créditos adicionales sobre la suscripción.
 >
-> Tamaño de mercado: hay 25M+ PyMEs en Latinoamérica y 33M en Estados Unidos. Lo que
-> podemos direccionar no es su presupuesto de software sino su presupuesto de
-> operaciones/servicios — el mercado de ~$4.6 billones (trillion) en servicios
-> profesionales que los agentes de IA están empezando a absorber. Con un promedio de
-> $500/mes por cliente, 10,000 clientes son $60M de ARR; 100,000 son $600M de ARR. La
-> palanca de IA+humano es lo que hace esto alcanzable: hoy cada especialista, amplificado
-> por agentes, puede operar `[CONFIRMAR: N]` cuentas, y ese número crece con cada mejora de
-> nuestros agentes.
+> Esto nos da la parte buena del SaaS — ingreso recurrente predecible, base contratada — sin
+> su techo. El SaaS por asiento cobra por cuántas personas usan la herramienta, así que su
+> ingreso queda limitado por la nómina del cliente y se contrae justo cuando la IA lo hace
+> más eficiente. Nosotros cobramos por operación entregada: nuestro ingreso crece con
+> cuánta operación del cliente absorbemos, no con cuánta gente tiene. Y como el costo de
+> entregar cada operación baja conforme nuestros agentes ejecutan más sin intervención
+> humana, la eficiencia de la IA expande margen en lugar de destruir ingreso.
+>
+> El mercado ya está migrando hacia este modelo: la facturación por asiento cayó de 21% a
+> 15% de las empresas de software en doce meses, mientras que los modelos híbridos
+> (suscripción base + consumo variable) subieron de 27% a 41% y hoy son la estructura
+> principal del 37% del mercado. Nosotros llegamos ahí desde el lado de los servicios, no
+> del software.
+>
+> Cuánto podríamos llegar a facturar: el techo por cliente no es el precio del plan, es
+> cuánta de su operación absorbemos. Un cliente entra en $199 resolviendo una necesidad
+> puntual y crece a $499 y a $1,200+ conforme le operamos más — y por cada $1 que una PyME
+> gasta en software gasta cerca de $6 en los servicios y la mano de obra para operarlo, que
+> es el presupuesto que realmente estamos direccionando. Con un promedio de $500/mes por
+> cliente, 10,000 clientes son $60M de ARR y 100,000 son $600M de ARR. Lo que hace esto
+> alcanzable sin escalar headcount linealmente es que hoy nuestros agentes ya ejecutan el
+> 60% de las acciones dentro de la operación de un cliente, y cada flujo que llevamos a
+> autonomía total se vuelve capacidad instalada para todos los clientes siguientes.
+>
+> Unit economics actuales: `[CONFIRMAR: margen bruto %, churn, expansión/NRR]`. Hoy cada
+> especialista, amplificado por agentes, opera `[CONFIRMAR: N]` cuentas.
 
 > **EN (listo para pegar):**
-> Monthly retainers with usage-based credits: $199/mo (Essential), $499/mo (Integral),
-> $1,200+/mo (Total, dedicated). Customers land on a small plan for one urgent need and
-> expand as we take over more of their operation — land & expand without a sales team.
-> Current unit economics: [CONFIRMAR: margen bruto %, churn, expansión].
+> We charge a monthly base subscription plus credits per operation. Three plans: $199/mo
+> (60 credits), $499/mo (160 credits), and from $1,200/mo (400+ rollover credits). Every
+> request consumes credits based on complexity: operations we've already productized have
+> a fixed cost (an automation is 10–20 credits, an email campaign 15–30, an integration
+> 20–40, a conversational agent 30–60), while work requiring more judgment or scope is
+> priced in variable credits. When a client burns through their allotment, they buy
+> additional credits on top of the subscription.
 >
-> Sizing: there are 25M+ SMBs in Latin America and 33M in the US. Our addressable spend
-> is not their software budget but their operations/services budget — the ~$4.6T
-> professional-services market that AI agents are starting to absorb. At an average
-> $500/mo per customer, 10,000 customers is $60M ARR; 100,000 is $600M ARR. The AI+human
-> leverage is what makes that reachable: each specialist, amplified by agents, can
-> operate [CONFIRMAR: N] accounts today, and that number grows with every model release.
+> This gives us the good part of SaaS — predictable recurring revenue, a contracted base —
+> without its ceiling. Seat-based SaaS charges for how many people use the tool, so its
+> revenue is capped by the customer's headcount and shrinks precisely when AI makes them
+> more efficient. We charge per operation delivered: our revenue grows with how much of
+> the customer's operation we absorb, not with how many people they employ. And because
+> the cost of delivering each operation falls as our agents execute more without human
+> intervention, AI efficiency expands margin instead of destroying revenue.
+>
+> The market is already moving this way: seat-based billing fell from 21% to 15% of
+> software companies in twelve months, while hybrid models (base subscription + variable
+> consumption) jumped from 27% to 41% and are now the primary structure for 37% of the
+> market. We arrived there from the services side rather than the software side.
+>
+> How much we could make: the ceiling per customer isn't the plan price, it's how much of
+> their operation we absorb. A customer lands at $199 solving one urgent need and grows to
+> $499 and $1,200+ as we run more for them — and for every $1 an SMB spends on software
+> they spend roughly $6 on the services and labor to operate it, which is the budget we're
+> actually addressing. At a $500/mo average, 10,000 customers is $60M ARR and 100,000 is
+> $600M ARR. What makes that reachable without scaling headcount linearly is that our
+> agents already execute 60% of the actions inside a client's operation today, and every
+> workflow we take to full autonomy becomes installed capacity for every client after it.
+>
+> Current unit economics: [CONFIRMAR: gross margin %, churn, expansion/NRR]. Today each
+> specialist, amplified by agents, operates [CONFIRMAR: N] accounts.
 
-`[Siguen dos huecos reales: margen bruto/churn/expansión, y cuántas cuentas maneja hoy un
+`[INVESTIGACIÓN 2026-07-31 — datos de mercado citados arriba, verificados:]`
+- Facturación por asiento: **21% → 15%** de las empresas de software en 12 meses. Modelos
+  híbridos (base + consumo): **27% → 41%**, y son la estructura principal del **37%** del
+  mercado. Fuente: reportes de monetización B2B SaaS 2026 (Growth Unhinged / Monetizely).
+- Encuesta Cruxy (abril 2026, 300 CEOs de SaaS): **97% planea retirar el cobro por asiento
+  en dos años.**
+- Benchmarks de cobro por resultado, útiles para la entrevista: Intercom Fin **$0.99** por
+  conversación resuelta; Zendesk **$1.50** por resolución automatizada con volumen
+  comprometido (**$2.00** pay-as-you-go); HubSpot bajó su Customer Agent a **$0.50** por
+  conversación resuelta (abril 2026).
+- Gartner: **40%** de las aplicaciones empresariales tendrán agentes de IA para fines de
+  2026, contra menos del 5% hoy.
+- Matiz importante: el mercado dice "outcome-based" pero casi todas las implementaciones
+  reales son **output-based** (por tarea completada), que es exactamente lo que hacen
+  ustedes al cobrar por operación entregada y no por resultado de negocio. Están alineados
+  con lo que el mercado realmente hace, no con el eslogan.
+
+`[Siguen dos huecos reales: margen bruto/churn/NRR, y cuántas cuentas maneja hoy un
 especialista. Sin esos dos números el resto de la respuesta es sólida.]`
+
+`[NOTA: se mantiene la decisión del 2026-07-25 de NO usar la etiqueta "Service as a
+Software" en el formulario — la respuesta usa la mecánica de la tesis (unidad de cobro =
+operación entregada, no asiento; TAM = presupuesto de servicios, no de software) sin el
+término. Guardarlo para la entrevista.]`
 
 ### If you had any other ideas you considered applying with, please list them.
 
-> `[CONFIRMAR: ideas reales tuyas. Sugerencias basadas en lo que ya han explorado:]`
-> 1. Vertical AI operator for travel agencies only (our anchor vertical, deeper).
-> 2. An AI request-routing system for service firms — the internal tool we built to run
->    Sixteam, sold as infrastructure to other AI-native agencies.
-> 3. WhatsApp-native revenue agent for LatAm SMBs as a pure self-serve product.
+> `[BORRADOR — necesita tu validación: estas tienen que ser ideas que ustedes realmente
+> consideraron. Las armé sobre activos que ya están construyendo (ver roadmap de 4 meses en
+> la postulación de 500), no inventadas. Corrige, reemplaza o agrega las reales.]`
+
+> **ES (borrador de trabajo):**
+> 1. **Infraestructura para firmas de servicios nativas en IA.** El SDK de agentes
+>    intercomunicados y el agente orquestador que construimos para operar Sixteam —
+>    recepción de la solicitud, planificación, delegación a agentes especializados, revisión
+>    del trabajo, escalamiento a criterio humano — vendido como infraestructura a otras
+>    firmas de servicios que quieren operar con agentes. Es el pico y la pala de la
+>    categoría en la que estamos compitiendo.
+> 2. **Capa de memoria de negocio para agentes.** El contexto persistente por cliente que
+>    guarda cómo opera su negocio, sus objetivos y su stack, para que cualquier agente
+>    ejecute con contexto completo en lugar de partir de cero. Hoy es un componente interno;
+>    como producto independiente resuelve el problema que tiene cualquiera que despliegue
+>    agentes dentro de una empresa real.
+> 3. **Operador vertical de IA para agencias de viajes.** Ir a fondo en nuestra vertical
+>    ancla (MasterViajes, Student Travel Center) en lugar de horizontal: un producto que
+>    opera cotización, seguimiento y retención de una agencia de viajes de punta a punta.
+
+> **EN (listo para pegar):**
+> 1. **Infrastructure for AI-native services firms.** The intercommunicating-agent SDK and
+>    orchestrator agent we built to run Sixteam — request intake, planning, delegation to
+>    specialized agents, review of delivered work, escalation to human judgment — sold as
+>    infrastructure to other services firms that want to operate with agents. It's the
+>    picks-and-shovels play for the category we're competing in.
+> 2. **A business-memory layer for agents.** The persistent per-client context that holds
+>    how a business operates, its goals, and its stack, so any agent executes with full
+>    context instead of starting from zero. Today it's an internal component; as a
+>    standalone product it solves the problem anyone deploying agents inside a real company
+>    runs into.
+> 3. **Vertical AI operator for travel agencies.** Going deep in our anchor vertical
+>    (MasterViajes, Student Travel Center) instead of horizontal: a product that runs
+>    quoting, follow-up, and retention for a travel agency end to end.
+
+`[Nota de YC en esta pregunta: "One may be something we've been waiting for. Often when we
+fund people it's to do something they list here and not in the main application." No
+dejarla vacía ni con relleno genérico. La #1 y la #2 son las más fuertes porque salen de
+algo que ya construyeron, no de una hipótesis.]`
 
 ---
 
